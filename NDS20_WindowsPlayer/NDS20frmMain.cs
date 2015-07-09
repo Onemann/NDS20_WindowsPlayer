@@ -23,7 +23,8 @@ namespace NDS20_WindowsPlayer
             {
                 case Keys.Escape:
                     this.Controls.Clear();
-                    this.Close();
+                    //this.Close();
+                    Application.Exit();
                     break;
             }
   
