@@ -1,0 +1,18 @@
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.XML
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.dll
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.pdb
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core.dll
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.XML
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core.pdb
+d:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.XML
+d:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.dll
+d:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.pdb
+d:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+d:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core.dll
+d:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Debug\Vlc.DotNet.Core.pdb

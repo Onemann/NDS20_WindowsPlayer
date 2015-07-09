@@ -1,0 +1,17 @@
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.XML
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.dll
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.pdb
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops.dll
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops.pdb
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.XML
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops.pdb
+d:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.XML
+d:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.dll
+d:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Debug - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.pdb
+d:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+d:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops.dll
+d:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Debug\Vlc.DotNet.Core.Interops.pdb
