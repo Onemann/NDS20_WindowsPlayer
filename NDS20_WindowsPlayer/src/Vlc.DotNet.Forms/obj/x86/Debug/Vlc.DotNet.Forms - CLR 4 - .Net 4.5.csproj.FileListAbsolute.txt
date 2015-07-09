@@ -1,0 +1,12 @@
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Forms\Debug - x86 - .Net 4.5\Vlc.DotNet.Forms.XML
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Forms\Debug - x86 - .Net 4.5\Vlc.DotNet.Forms.dll
+D:\Projects\NDS\Vlc_ajhatt\build\Vlc.DotNet.Forms\Debug - x86 - .Net 4.5\Vlc.DotNet.Forms.pdb
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Forms\obj\x86\Debug\Vlc.DotNet.Forms - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Forms\obj\x86\Debug\Vlc.DotNet.Forms.dll
+D:\Projects\NDS\Vlc_ajhatt\src\Vlc.DotNet.Forms\obj\x86\Debug\Vlc.DotNet.Forms.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Forms\Debug - x86 - .Net 4.5\Vlc.DotNet.Forms.XML
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Forms\Debug - x86 - .Net 4.5\Vlc.DotNet.Forms.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Forms\Debug - x86 - .Net 4.5\Vlc.DotNet.Forms.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x86\Debug\Vlc.DotNet.Forms - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x86\Debug\Vlc.DotNet.Forms.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x86\Debug\Vlc.DotNet.Forms.pdb
