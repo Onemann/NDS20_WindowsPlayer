@@ -8,3 +8,8 @@ D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.In
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Release - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.pdb
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Release\Vlc.DotNet.Core.Interops.dll
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Release\Vlc.DotNet.Core.Interops.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Release - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.XML
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Release - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core.Interops\Release - x86 - .Net 4.5\Vlc.DotNet.Core.Interops.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Release\Vlc.DotNet.Core.Interops.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core.Interops\obj\x86\Release\Vlc.DotNet.Core.Interops.pdb

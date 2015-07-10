@@ -1,0 +1,22 @@
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\NDS20_WindowsPlayer.exe.config
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\NDS20_WindowsPlayer.exe
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\NDS20_WindowsPlayer.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Core.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Core.Interops.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Forms.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Forms.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Forms.xml
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Core.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Core.xml
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Core.Interops.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Release\Vlc.DotNet.Core.Interops.xml
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Release\NDS20_WindowsPlayer.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Release\NDS20_WindowsPlayer.NDS20frmMain.resources
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Release\NDS20_WindowsPlayer.Properties.Resources.resources
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Release\NDS20_WindowsPlayer.csproj.GenerateResource.Cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Release\NDS20_WindowsPlayer.exe.licenses
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Release\NDS20_WindowsPlayer.exe
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Release\NDS20_WindowsPlayer.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Release - x86 - .Net 4.5\NDS20_WindowsPlayer.exe.config
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Release - x86 - .Net 4.5\NDS20_WindowsPlayer.exe
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Release - x86 - .Net 4.5\NDS20_WindowsPlayer.pdb

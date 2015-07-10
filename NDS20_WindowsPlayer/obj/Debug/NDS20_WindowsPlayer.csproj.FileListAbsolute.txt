@@ -1,8 +1,0 @@
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\Debug\NDS20_WindowsPlayer.exe.config
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\Debug\NDS20_WindowsPlayer.exe
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\Debug\NDS20_WindowsPlayer.pdb
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\Debug\NDS20_WindowsPlayer.csprojResolveAssemblyReference.cache
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\Debug\NDS20_WindowsPlayer.Properties.Resources.resources
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\Debug\NDS20_WindowsPlayer.csproj.GenerateResource.Cache
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\Debug\NDS20_WindowsPlayer.exe
-D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\Debug\NDS20_WindowsPlayer.pdb

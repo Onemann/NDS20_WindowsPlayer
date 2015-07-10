@@ -4,3 +4,9 @@ D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Forms\D
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x64\Debug\Vlc.DotNet.Forms - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x64\Debug\Vlc.DotNet.Forms.dll
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x64\Debug\Vlc.DotNet.Forms.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Forms\Debug - x64 - .Net 4.5\Vlc.DotNet.Forms.XML
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Forms\Debug - x64 - .Net 4.5\Vlc.DotNet.Forms.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Forms\Debug - x64 - .Net 4.5\Vlc.DotNet.Forms.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x64\Debug\Vlc.DotNet.Forms - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x64\Debug\Vlc.DotNet.Forms.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Forms\obj\x64\Debug\Vlc.DotNet.Forms.pdb

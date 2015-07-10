@@ -1,0 +1,10 @@
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Debug - x64 - .Net 4.5\NDS20_WindowsPlayer.exe.config
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Debug - x64 - .Net 4.5\NDS20_WindowsPlayer.exe
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Debug - x64 - .Net 4.5\NDS20_WindowsPlayer.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x64\Debug\NDS20_WindowsPlayer.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x64\Debug\NDS20_WindowsPlayer.NDS20frmMain.resources
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x64\Debug\NDS20_WindowsPlayer.Properties.Resources.resources
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x64\Debug\NDS20_WindowsPlayer.csproj.GenerateResource.Cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x64\Debug\NDS20_WindowsPlayer.exe.licenses
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x64\Debug\NDS20_WindowsPlayer.exe
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x64\Debug\NDS20_WindowsPlayer.pdb

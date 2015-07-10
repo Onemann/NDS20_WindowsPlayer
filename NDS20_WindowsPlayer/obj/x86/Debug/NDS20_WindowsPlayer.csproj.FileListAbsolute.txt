@@ -18,8 +18,6 @@ D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.pdb
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.exe.licenses
 d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\NDS20_WindowsPlayer.exe.config
-d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.exe
-d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.pdb
 d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\NDS20_WindowsPlayer.exe
 d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\NDS20_WindowsPlayer.pdb
 d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\Vlc.DotNet.Core.dll
@@ -31,8 +29,13 @@ d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\Vlc.DotNet
 d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\Vlc.DotNet.Core.xml
 d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\Vlc.DotNet.Core.Interops.pdb
 d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\bin\x86\Debug\Vlc.DotNet.Core.Interops.xml
-d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.csprojResolveAssemblyReference.cache
-d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.NDS20frmMain.resources
-d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.Properties.Resources.resources
-d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.csproj.GenerateResource.Cache
-d:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.exe.licenses
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Debug - x86 - .Net 4.5\NDS20_WindowsPlayer.exe.config
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Debug - x86 - .Net 4.5\NDS20_WindowsPlayer.exe
+D:\Projects\NDS\NDS20_WindowsPlayer\build\NDS20WindowsPlayer\Debug - x86 - .Net 4.5\NDS20_WindowsPlayer.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.NDS20frmMain.resources
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.Properties.Resources.resources
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.csproj.GenerateResource.Cache
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.exe.licenses
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.exe
+D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\obj\x86\Debug\NDS20_WindowsPlayer.pdb

@@ -10,3 +10,9 @@ D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Re
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Release\Vlc.DotNet.Core - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Release\Vlc.DotNet.Core.dll
 D:\Projects\NDS\NDS20_WindowsPlayer\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Release\Vlc.DotNet.Core.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Release - x86 - .Net 4.5\Vlc.DotNet.Core.XML
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Release - x86 - .Net 4.5\Vlc.DotNet.Core.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\build\Vlc.DotNet.Core\Release - x86 - .Net 4.5\Vlc.DotNet.Core.pdb
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Release\Vlc.DotNet.Core - CLR 4 - .Net 4.5.csprojResolveAssemblyReference.cache
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Release\Vlc.DotNet.Core.dll
+D:\Projects\NDS\NDS20_WindowsPlayer\src\Vlc.DotNet.Core\obj\x86\Release\Vlc.DotNet.Core.pdb
