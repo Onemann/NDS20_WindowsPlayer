@@ -16,14 +16,20 @@ namespace NDS20_WindowsPlayer
     public partial class NDS20frmMain : Form
     {
         private int idxSubFrame;
-        public List <classSubFrame> movieFrames; // for dynamic creation
+        public List <SubFrame> movieFrames; // for dynamic creation
         public List<string> strInSchdl;
 
         public NDS20frmMain()
         {
             InitializeComponent();
 
-            movieFrames = new List<classSubFrame>();
+            // Creates or loads an INI file in the same directory as your executable
+            var MyIni = new IniFile();
+            MyIni.Write("DefaultVolume", "100");
+            MyIni.Write("HomePage", "http://www.google.com");
+
+            // Creates video player dynamic object array. 
+            movieFrames = new List<SubFrame>();
             strInSchdl = new List<string>();
         }
 
@@ -32,10 +38,14 @@ namespace NDS20_WindowsPlayer
         {
             switch (e.KeyCode)
             {
-                case Keys.Escape:
+                case Keys.Escape :
                     this.Controls.Clear();
                     //this.Close();
                     Application.Exit();
+                    break;
+
+                case Keys.F7 :
+
                     break;
             }
   
@@ -53,7 +63,8 @@ namespace NDS20_WindowsPlayer
                 " \"yPos\": 0," +
                 " \"hLen\": 360," +
                 " \"vLen\": 200," +
-                " \"fileName\": \"d:/Projects/NDS/Contents/A.avi\" " +
+                " \"fileName\": \"d:/Projects/NDS/Contents/A.avi\"," +
+                " \"volume\": 0 " +
                 "}"
                 );
 
@@ -63,7 +74,8 @@ namespace NDS20_WindowsPlayer
                 " \"yPos\": 100," +
                 " \"hLen\": 500," +
                 " \"vLen\": 280," +
-                " \"fileName\": \"d:/Projects/NDS/Contents/A.tp\" " +
+                " \"fileName\": \"d:/Projects/NDS/Contents/A.tp\"," +
+                " \"volume\": 0 " +
                 "}"
                 );
 
@@ -73,38 +85,46 @@ namespace NDS20_WindowsPlayer
                 " \"yPos\": 300," +
                 " \"hLen\": 500," +
                 " \"vLen\": 350," +
-                " \"fileName\": \"d:/Projects/NDS/Contents/A.wmv\" " +
+                " \"fileName\": \"d:/Projects/NDS/Contents/A.wmv\"," +
+                " \"volume\": 100 " +
                 "}"
                 );
             JsonTextParser parser = new JsonTextParser();
             JsonObject jsonShdlObj = parser.Parse(strInSchdl[0]);
 #endregion
 
-            movieFrames.Add(new classSubFrame(jsonShdlObj));
+            movieFrames.Add(new SubFrame(jsonShdlObj));
             idxSubFrame = movieFrames.Count - 1;
 
             this.Controls.Add(movieFrames[idxSubFrame]);
 
             jsonShdlObj = parser.Parse(strInSchdl[1]);
-            movieFrames.Add(new classSubFrame(jsonShdlObj));
+            movieFrames.Add(new SubFrame(jsonShdlObj));
             idxSubFrame = movieFrames.Count - 1;
 
             this.Controls.Add(movieFrames[idxSubFrame]);
 
             jsonShdlObj = parser.Parse(strInSchdl[2]);
-            movieFrames.Add(new classSubFrame(jsonShdlObj));
+            movieFrames.Add(new SubFrame(jsonShdlObj));
             idxSubFrame = movieFrames.Count - 1;
 
             this.Controls.Add(movieFrames[idxSubFrame]);
 
 
 //            movieFrames[idxSubFrame].Play();
+
             movieFrames[0].Play();
             movieFrames[1].Play();
             movieFrames[2].Play();
-
+            
             
             //MessageBox.Show(subFrame.getMessage(" OK"));
+            //movieFrames[0].Audio.Volume = 0;
+            //movieFrames[1].Audio.Volume = 0;
+            //movieFrames[2].Audio.Volume = 0;
+
+            movieFrames[1].SetVolume(0);
+            movieFrames[2].SetVolume(0);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -128,6 +148,9 @@ namespace NDS20_WindowsPlayer
 
         private void button3_Click(object sender, EventArgs e)
         {
+            movieFrames[0].Audio.Volume = 0;
+            movieFrames[1].Audio.Volume = 0;
+            movieFrames[2].Audio.Volume = 0;
         }
     }
 }

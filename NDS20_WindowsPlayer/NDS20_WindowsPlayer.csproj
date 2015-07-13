@@ -96,7 +96,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="classSubFrame.cs">
+    <Compile Include="IniFile.cs" />
+    <Compile Include="SubFrame.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="NDS20frmMain.cs">

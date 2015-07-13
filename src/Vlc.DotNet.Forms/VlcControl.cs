@@ -154,6 +154,23 @@ namespace Vlc.DotNet.Forms
             }
         }
 
+        public int Volume
+        {
+            ////////
+            get
+            {
+                if (myVlcMediaPlayer != null)
+                    return myVlcMediaPlayer.Volume;
+                else
+                    return 0;
+            }
+            set
+            {
+                if (myVlcMediaPlayer != null)
+                    myVlcMediaPlayer.Volume = value;
+            }
+        }
+
         public MediaStates State
         {
             get

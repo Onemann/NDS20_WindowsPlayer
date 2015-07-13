@@ -11,9 +11,9 @@ using System.Net.Json;
 
 namespace NDS20_WindowsPlayer
 {
-    public class classSubFrame : Vlc.DotNet.Forms.VlcControl
+    public class SubFrame : Vlc.DotNet.Forms.VlcControl
     {
-        public classSubFrame(JsonObject jsonSchedule) :base()
+        public SubFrame(JsonObject jsonSchedule) :base()
         {
             JsonObjectCollection col = (JsonObjectCollection)jsonSchedule;
             //string jsonstr = col.ToString();
@@ -24,6 +24,7 @@ namespace NDS20_WindowsPlayer
             int hLen = int.Parse(col["hLen"].GetValue().ToString());
             int vLen = int.Parse(col["vLen"].GetValue().ToString());
             string media = (string)col["fileName"].GetValue();
+            int volum = int.Parse(col["volume"].GetValue().ToString());
 
             BackColor = System.Drawing.Color.Black;
             Location = new System.Drawing.Point(xPos,yPos);
@@ -31,15 +32,23 @@ namespace NDS20_WindowsPlayer
             Size = new System.Drawing.Size(hLen, vLen);
             TabIndex = 0;
             Text = "NDSPlayerControl";
-            
+
             VlcLibDirectory = null;
             VlcLibDirectoryNeeded += new
                 System.EventHandler<Vlc.DotNet.Forms.VlcLibDirectoryNeededEventArgs>
                 (this.OnVlcControlNeedLibDirectory);
             
             SetMedia(new FileInfo(@media));
-            
+
+            // Audio.Volume = 10;
+            Rate = 2.0f;
+           }
+
+        public void SetVolume(int vol)
+        {
+            Audio.Volume = vol;
         }
+
         private void OnVlcControlNeedLibDirectory(object sender, VlcLibDirectoryNeededEventArgs e)
         {
             var currentAssembly = Assembly.GetEntryAssembly();
@@ -63,7 +72,7 @@ namespace NDS20_WindowsPlayer
                 }
             }
         }
-        public Vlc.DotNet.Forms.VlcControl videoPlayer;
+ //       public Vlc.DotNet.Forms.VlcControl videoPlayer;
 
         public string getMessage(string subfixString)
         {
