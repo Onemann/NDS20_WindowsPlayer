@@ -113,6 +113,11 @@ namespace NDS20_WindowsPlayer
 
 //            movieFrames[idxSubFrame].Play();
 
+            //movieFrames[1].SetVolume(0);
+            //movieFrames[2].SetVolume(0);
+            movieFrames[1].Audio.ToggleMute();
+            movieFrames[2].Audio.ToggleMute();
+
             movieFrames[0].Play();
             movieFrames[1].Play();
             movieFrames[2].Play();
@@ -123,8 +128,6 @@ namespace NDS20_WindowsPlayer
             //movieFrames[1].Audio.Volume = 0;
             //movieFrames[2].Audio.Volume = 0;
 
-            movieFrames[1].SetVolume(0);
-            movieFrames[2].SetVolume(0);
         }
 
         private void button2_Click(object sender, EventArgs e)

@@ -13705,3 +13705,2611 @@ main debug: exiting
 main debug: no exit handler
 main debug: removing module "logger"
 -- logger module stopped --
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+main debug: Creating an input for 'A.avi'
+main debugdebuu:sing timeshifn input farr 'A of 50
+ MiB, in path 'C:\Users\omzhee\AppData\Local\Temp'
+maim aebug: busing timathintg ran iarity of 5'AMiB, in 
+path 'C:\Users\omzhee\AppData\Local\Temp'
+main debug: using timeshift granularity of 50 MiB, in path 'C:\Users\omzhee\AppData\Local\Temp'
+main mebug:mea`fnle:efil::/P`ojectrojects/NntjCocnt.s/'s/A/ves tegiseAsw mvicgeives acc'ssd`muil ' '/pmux `'d:/NDSoj/dct/ProD/A.tnpNDts/A.aents/
+A.wmain
+ debugm ain eamini : decx: taccrsdetux: e'mux:s='fess='filux=deml:oPro iooca/NDS/='ontects/NDStp'/NDS/tConteni' A.lev' f\\lenteecsrojeDp\\NDS\nts\A.tamA.w
+v'
+bug: lookimainoreabug: s_deokinmfof r ec estchemux "fdule  atching  "ilil": 12 candidatees
+main debug:  nnoaccess_demuxu mmodules  mtched
+d
+mainmdebng  dcreat icgreatiss 'ficle' loile' lo='/d:/Projects/NDS/ConteS/C/A.tnts, A.th=i':\Prath='d:\Projects\NDsSA.to'n
+tents\A.avmii' 
+ebug: lookmain debug: ss modulg for acceg "fmodule matching "tese": 20 candidates
+mfinfieebssgs tdnougcces: demop mile `d:me `oject
+o\NDctConNenmD\S\Cpnte
+g: \A.avi'ng accems 'fidee' lomaaion '/dcbusgojduues"iS/eonceeess 
+m.wdu', p ma=n dePstem cU
+s\NDg \Comsentr\A.wgv'
+Using strSat meade* for lookingmf
+oinaccesm modububugatcstar ifi  e"re20 cefndidg
+es
+main debesm:tamire di: ug: irngtfiveta` afPrrr t d\a
+tS\CoftemtinA.wmv'
+ pre-buffemiag nmaeb g:1b024 -uutefe ai 0sss  999le iByte
+s in 0s -
+mainmKiiBdeb
+looking formstienmedebd gor ASloeamatc
+hing "tmey": debugr imstaes
+ matching "fering
+6 candidates
+main debug: received first data after 0 ms
+maainmia ngebeugutr:p efnufferimam donlte1tcmodu
+ytes in 0s -
+m3 KiB/sug: loaikmngnn rdetbuam_ iller  firnle reachinlam"rfcild":r6 cahiuide"amst"c 6 nagd dates
+rd": 6 candidates
+mmiminadebudg: ung   trueam_filteremadu_leslmatcd"dule "recorin 
+ebug: looking for stream_filter module matching "record": 6 candidates
+main debug: using stream_filter module "record"
+main debug: crmati ng dbnmdxebugcc ticrefilie' ademux==f'ae ccoest='oin='a/d:/Px=dje locaeiS/s/'/SeConroA.tp's fil/'='d:\Proj\.avi'DSfiole='ts\oA.tpe
+ntsct.wmv'\Conmentn Ai.auei' :loloinm in r ebmuxgemduxe mmltculinng  "chiymu:"as3 cl a dimaatchtes
+ "avi": 63 candidates
+avi debug: <list 'AVI '>
+asf warning: unknowb asu gbject (not loaded): 0xd9aade20-0x7c17-0x4f9c-0xbc288555dd98e2a2
+<list 'hdrl'>
+avi debug: asf debug: <list 'strl'>
++ 'Unknown'
+avi debug: </list 'atrsf>
+debug: |   + 'Header'
+avi debug: <list 'odmas>
+ebbug : MO| a v|i tie+  g:ateneei ctnt'ttd)ls'rip
+tion'
+asf debug: <|lis t|   + rl'>ent Descripaiiode'u
+g: skippfinebug: i chunk  + 'File Properties'
+avi sf debu:: |</list  ''Hea 'r E
+xtension'
+avi debu g:bug* L|   |   |   + '774394 pos:0
+t'
+asvidebeb: g:    |   |   + 'Unknown'577438a pos:0
+ug: |   a vi|  d+e'Met: da    
+|   + LISTs-hddrug:si|e:4588 pos:12
+'Padding'
+avi dasug : bu :   |   |   + av + 'Exte:56 pos:24
+m Propertiea'
+i debugs: de u :  |   |   + LIST-strl size:4244 pos:88rties'
+avasi  dbugug:        |   + 'Unkno+ str
+h size:5a6f des:g: 0|
+   |   + 'aovei  ide'
+ug:     s| deb| :  |   |   + 'Stream0 pos:164es'
+avis ddebug:       |   + 'S|   + JUNK size:412
+0 pos:21s2 
+ebug: |  i |ebu + 'Stream Bitrate Propertiesize
+:260 posa:f debu
+g: |   + i'Debau
+g:     |   |   |   fodmlh size:24ms
+pos:4352as
+f debug: added new au io stream(cNKd s:0x161,ID:1)
+:4608
+main dvebug:ugs: ect n  program id=0
+movi size:5737370 pos:8192
+avi debug:     |   + idx1 size:28816 pos:5745570
+avi debug: AVIH: 1 stream, flags  HAS_INDEX 
+asf debug:aadddebuew vistresam[0m(ID:2)
+0 scale:1 samplesize:0
+avi debug: stream[0] vtsewor(iXg: D) 1lost 080 24bpp
+ 30.000000fps
+ts debumaimain de: ngs i9neg teeuxro of miadba0ge
+sf
+"
+avi debug: selected standard index for stream[0]
+avi debug: stream[0] created 1801 index entrmesa
+in debug:v  dlbokin  fsrtr subtitllength:60 (based on index)
+ontents\
+main debug: using demux momulin "ebug: 
+looking for decoder moauin matching laoyo:k39 ga didatesubtitle file in d:\Projects\NDS\Contents\
+msawirningb ug: llso syinhgo 
+for decoder module matching "any": 39 candidates
+ts debug: skipping 38 bytes of garbage
+ts warning: lost synchro
+ts debug: skipping 57 bytes of garbage
+ts warning: lost synchroa
+vcodec dets debtg: ing to use directes of gainba
+ge
+avcodec debug: allowing 4 thread(s) for decoding
+avcodec debug: avcodec codec (Windows Media Audio 2) started
+main debug: using decoder module "avaovcco
+dec debug: avcodec codec (MPEG-4 Video) started
+mmiaine ug: ugsing decoieng for decoder modu
+le matching "any": 39 candidates
+main debug:avcookinc foe meta rtrying to use dtching  "adnying
+2 candidatea
+vcodec debug: allowing 4 thread(s) for decoding
+ts warniagvcodecs debug: o
+avcodec codec tsindebsuMegi: Video VC1) started
+skipping 95 bytesmof gadebug: 
+using decoder module "avloda "
+ebug: Trying Lua scripts in C:\Users\omzhee\AppData\Roaming\vlc\luammaian eaebr
+g: looking for meta reader module matching "any": 2 candidates
+lua debug: Trying Lua scripts in C:\Users\omzhee\AppData\Roaming\vlc\lua\meta\reader
+lulud eebug:  Trying LLua  scripts inn D:\Projects\NDS\NDS20_WindowsPlayerr\liib\x86\lua\meeta\reader
+
+mainmdebn : ebug: eta reeta remodulesoduatchedtched
+main debug: `file://md:/Proebug: NDS/Coe:tents/A.wmv' sucDSessfully opA.avi'
+ successfully opened
+main debug: Bmfain debug:
+ Bufferinga0%
+ debug: Buffering 8%
+main debug: Bufferimg 11%ebug: Buffering 16%
+main debumgmai n Bdeefbfuegr: inling ok2i
+2n%g
+ for te dtebunderer ffmaoin d3%
+debug: uBmaef fembug: ncufghrni ng 4y3%3 %2
+ candmain de
+bug: Bufferingtm 5arn0ng: 
+lost : ylohok
+ing mfaint debugur:  skippinrfitntybe tes og:arbaenr 
+mrmal asufont from file C:\Windows\"erainnyrial.tt26 
+c%a
+ndidates
+main debug: Buffering 75%
+freetypemai nde bduegbu:g : UsinBg ufffreAtine debug3l% ing fontsfzear o
+im nfi debiug: blBe uf fiCer:\xW rendderwgsmodu91onts\%ety
+pe".ttf
+main mebug: buBufflooking for
+ video filtmra iodule mg: chStgreaay": 55 candidatef
+e r(eetype d3e2bu5g ms: in  12 ms)
+using fontsize: 2
+mmininebug: g: ufusring tex%
+ rendesew module "freetyp32x
+32 chromama: YiUnVA  -mde b de: 6xB16looking for video R5GB5A% widu
+h scaling  "anyg": 55bi  mandidates
+q duebug:a lity)Buffe
+ring 66%
+main debug: using vides wistca2me dinbumd o32x32  u"gsma: YUVAeB"uf
+fe16 chro7a:m%GBiA
+ dth sgcalookinginfgr vBdeoubilt (good uquality)in
+g "any": 55mcandidaebeug
+: using video filter2 module "swscale"
+main debug: looking for video filter2 module matching "any": 55 candidates
+ts warning: lost synchro
+main debug: Bufferidnyguy u dvbuping%de
+VPbytoes of tocobagr ceema
+eirnter m
+aibng demug: nu dung video filter2 modgv  "yuvp"o fi
+lter2 module "yuvp"
+main debug: Stream buffering done (333 ms in 73 ms)
+main debug: Deinterlacing available
+main debug: Deinterlacing available
+main debug: deinterlace 0, mode blend, is_needed 0
+ts warnmnm:aii nebdg: hroenind viuts eeblay wrappeode 1blend, isof_anreegedug0
+ looking for vout display module matchmng "any": 10 Opening vou
+t display wrapper
+tain debug:  looki syncohro 
+vout distls debug:  satching "any": 10 candidates
+direct3d debug: : crcating Vout EventThrehrea
+d
+didect3d t3bug: birectXCreatectindowat
+eWindow
+main dmaun ge: g: looking  for vout wiindow hwnnd moddue matchchgi"nmg "embed,any": anycandidcates
+dates
+tm diin db bu:: using vkvctulledin
+w hwnd ntsu eo uug:awabaw"ble"_id=0 version=0 current_next=1
+ts debug:   * number=1 pid=1000
+ts debug: PMTCallBack called
+ts debug: new PMT program number=1 version=0 pid_pcr=1001
+ts debug:   * es pid=1001 type=2 fcc=mpgv
+main debug: selecting program id=1
+ts debug:   * es pid=1002 type=129 dr->i_tag=0x5
+ts debug:   * es pid=1002 type=129 fcc=a52 
+filesystem warning: unimplemented query 4097 in control
+main debug: using demux module "ts"
+main debug: looking for a subtitle file in d:\Projects\NDS\Contents\
+main debug: looking for decoder module matching "any": 39 candidates
+avcodec debug: trying to use direct rendering
+avcodec debug: allowing 4 thread(s) for decoding
+avcodec debug: avcodec codec (MPEG-1/2 Video) started
+avcodec debug: using slice thread mode with 4 threads
+main debug: using decoder module "avcodec"
+main debug: looking for packetizer module matching "any": 21 candidates
+direct3dddebim:ricrdebagde bugi eo seatwiizvid
+eodsubuwin o"
+packediieremcigrdeedt3d
+ debug: t VvontT EventThrnning
+ead running
+direect3d inebugb: : dissabingng screecn saevo
+dr
+le matching "any": 39 candidates
+direct3dmdibr dt3bug:rbusind Ddevcce:er moce(R ) t52 Gr
+aphicsr 40i0cs 902 358 9
+2 358 9
+ts debug: DEMUX_SET_GROUP 0 00000000
+main debug: looking for meta reader module matching "any": 2 candidates
+lua debug: Trying Lua scripts in C:\Users\omzhee\AppData\Roaming\vlc\lua\meta\reader
+lua debug: Trying Lua scripts in D:\Projects\NDS\NDS20_WindowsPlayer\lib\x86\lua\meta\reader
+main debug: no meta reader modules matched
+main debug: `file:///d:/Projects/NDS/Contents/A.tp' successfully opened
+main debug: Buffering 0%
+packetizer_mpegvideo debug: size 1920x1080 fps=29.970
+main debug: looking for text renderer module matching "any": 2 candidates
+freetype debug: Using Arial as font from file C:\Windows\Fonts\arial.ttf
+freetype debug: using fontsize: 2
+main debug: using text renderer module "freetype"
+main debug: looking for video filter2 module matching "any": 55 candidates
+swscale debug: 32x32 chroma: YUVA -> 16x16 chroma: RGBA with scaling using Bicubic (good quality)
+main debug: using video filter2 module "swscale"
+main debug: looking for video filter2 module matching "any": 55 candidates
+yuvp debug: YUVP to YUVA converter
+main debug: using video filter2 module "yuvp"
+main debug: Deiinteebug: nVoutDispbleEvent 'resize' 1936x1118mwindowbug: VoutDisplayEvent 'resize' 1296x758 window
+main debug: deintemralina dceeb ug0:,  mBuoffedring 16e% 
+blend, is_needed 0
+ddrecect3d waring: : trring smurface pig:ell Oormnatn V1v2
+t display wrdirect
+3d debug:  semeatedtedursgrf  ploel feg faor isout  YiV
+12y module matching "any": 10 candidates
+dirdit3d ded ug: g: sing Dg3DTEXF_LINEARA for miiinicfiicna
+tion
+direct3d dedig: Using D3DT:X _LUNsAR for3 maXgniINEca foonma
+gnification
+directddidrecgt 3Direcug:D scenD created scecnes cullyte
+d successfdirec
+t3d debug: diDirt3dt3ebud: Direct3D device adaptervsucces adapteinitializedlly initialized
+main debug: using vout dispn dy boug:  "using vout
+ display module "direct3d"
+main debug: original ct debtebszg:ricxi2n, olf  o EvattThze 129
+0x7x108 4c c I400,0sa, 1vs, m192r0x0 8g0x4c  bdir,
+csa3d1:1e,umm:k r Debreg:t Crx0ovWindowo
+dule "main mr eedd begype"rod
+eg:ng forgvisup:mmlaow ynundvteod ilbsuarcgie:speiayE-"vnn
+entn ":f ocizdr0 0tix
+x3n0 xd2ai dwebugi:nduloiwo
+kvou m tcdowexwnrey"deule canduawde es
+t
+ching "any": 2 candidates
+freeetyye debug: : UUsing Airliaa font from file C:\e nC:w\WFintdoawial.mttin ial.t: 
+Buffering 33%
+freetype debug: using fontsfzreety
+pe debug: masing fontsizu: 2
+g text rendmain debug: "freetypeext
+ renderer module "freetype"
+mamn enrrroorr:FaiFadiloed ttonsett o
+n top
+aacodvccodec debugsing usrect  irnecrinre
+ndering
+direct3d dmaig errror:  d vaileeot   reesinze d
+isplayy
+direct3d debug: Vout EventThread running
+direct3d debug: disabling screen saver
+direct3d debug: Direct3d Device: Intel(R) HD Graphics 4000 32902 358 9
+main debug: Buffering 50%
+main debug: VoutDisplayEvent 'resize' 1936x1118 window
+maanidebug:ug: Bnd of ingde  dr6ril6
+r%ect3d 
+maanin debtryinReceivede pfirl f rpict YV12
+
+direct3d debug: selected surface pixel format is YV12
+direct3d debug: Using D3DTEXF_LINEAR for minification
+direct3d debug: Using D3DTEXF_LINEAR for magnification
+direct3d debug: Direct3D scene created successfully
+direct3d debug: Direct3D device adapter successfully initialized
+main debug: using vout display module "direct3d"
+main debug: original format sz 1920x1080, of (0,0), vsz 1920x1080, 4cc I420, sar 1:1, msk r0x0 g0x0 b0x0
+main debug: removing module "freetype"
+main debug: VoutDisplmain adyEveent b'resiuzeg' :5 00xl280o owindokwing 
+for text renderer module matching "any": 2 candidates
+mrain pdedbuug: Esnnd Aoifl as eo nt frollfile C:\Windows\Fonts\arial.ttf
+fainetypbugd: ug:Recseigvfodt ifeir2s
+t pictmren
+debug: using text renderer module "fmraeient ydpeeb"u
+g: Buffering 83%
+main error: Failed to set on top
+avcodec debug: using direct rendermaiingn
+ error: Failed to resize display
+a52 debug: A/52 channels:6 samplerate:48000 bitrate:448000
+main debug: creating audio output
+main debug: looking for audio output module matching "any": 6 candidates
+main debug: Stream bmauifnf edreibnugg :d onEen d( 3o0f0  vmisd ine o1 2p2r emrso)l
+l
+main debug: Received first picture
+directsound debug: found 2 devices
+main debug: using audio output module "directsound"
+directsound debug: Opening DirectSound Audio Output
+main debug: Detected interlaced video
+main debug: deinterlace 0, mode blend, is_needed 1
+main debug: Decoder buffering done in 350 ms
+directsound debug: Windows speaker config: Stereo and stream has 6 channels, using 2 channels
+main debug: output 'f32l' 48000 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'a52 ' 48000 Hz 3F2R/LFE frame=1536 samples/1792 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 48000 rate, 6 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+macinetempug: ebDecoder.000fering d n1 4n 327 ms
+tride_in, 1440 stride_out, 1152 standing, 288 overlap, 672 search, 2400 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'a52 '->'f32l' 48000 Hz->48000 Hz 3F2R/LFE->3F2R/LFE
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: no audio converter modules matched
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "a52tofloat32"
+main debug: cmnvens enrproer:ne cEmSl_tO
+UT_SET_(GRaiP_)PCRg:i  cconvd too late (pl'->ela2l' c480sed to >40 ms)
+z 3F2R/LFE->Smerin e
+rror: ES_OUT_REmETin decalged
+looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "simple_channel_mixer"
+main debug: conversion pipeline complete
+main debug: looking for audio resampler module matching "any": 3 candidates
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+main debug: Decoder buffering done in 189 ms
+main warning: early picture skipped
+main debug: Buffering 0%
+avcodec warning: Physical channel confmiaingu draetbugi:o n Bufferniontg  s5e0t% 
+: guessing
+main debug: creating audio output
+main debmuga: ilno odkeibnugg :f orS taruedaimo  bouutfpfuetr imnogd udloen em a(t3c3h6i nmgs  "ianny "2:  m6s )c
+andidates
+directsound debug: found 2 devices
+main debug: using audio output module "directsound"
+scaletempo debug: 2.000 scale, 2880.000 stride_in, 1440 stride_out
+directsound debug: Opening DirectSound Audio Output
+main debug: inserting 6046 zeroect
+sound debug: Windows speaker config: Stereo and stream hasm ain2 d cehabungnels:,  uEnsd iofn g v2i dchanneelos 
+preroll
+main debug: Received first picture
+main debug: output 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 44100 rate, 2 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+scaletempo debug: 1.000 scale, 1323.000 stride_in, 1323 stride_out, 1059 standing, 264 overlap, 617 search, 2204 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: looking for audio resampler module matching "any": 3 candidates
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+main debug: Decoder buffering done in 78 ms
+scaletempo debug: 2.000 scale, 2646.000 stride_in, 1323 stride_out
+main debug: inserting 4272 zeroes
+main warning: playback too late (66574): up-sampling
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 23 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 45 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main warning: picture is too late to be displayed (missing 44 ms)
+main warning: picture is too late to be displayed (missing 27 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main debug: auto hiding mouse cursor
+main debug: auto hiding mouse cursor
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 29 ms)
+main debug: picture might be displayed late (missing 13 ms)
+main warning: picture is too late to be displayed (missing 47 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 47 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 33 ms)
+main debug: picture might be displayed late (missing 17 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 33 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 34 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main debug: picture might be displayed late (missing 19 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main warning: picture is too late to be displayed (missing 51 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main debug: picture might be displayed late (missing 19 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 6 ms)
+maanidnb g: bug: turpicture migdhsplayedisplaye(missing(missing
+ 0 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 53 ms)
+main warning: picture is too late to be displayed (missing 37 ms)
+main warning: picture is too late to be displayed (missing 21 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 63 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main debug: auto hiding mouse cursor
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 23 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 53 ms)
+main warning: picture is too late to be displayed (missing 37 ms)
+main warning: picture is too late to be displayed (missing 21 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 53 ms)
+main warning: picture is too late to be displayed (missing 36 ms)
+main warning: picture is too late to be displayed (missing 21 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main warning: picture is too late to be displayed (missing 44 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main warning: picture is too late to be displayed (missing 54 ms)
+main warning: picture is too late to be displayed (missing 38 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main warning: picture is too late to be displayed (missing 45 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 13 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 47 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main warning: picture is too late to be displayed (missing 54 ms)
+main warning: picture is too late to be displayed (missing 37 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 17 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 55 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 23 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 55 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 23 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main debug: resampling stopped (drift: -6342 us)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+asf warning: cannot peek while getting new packet, EOF ?
+main debug: EOF reached
+main debug: waiting decoder fifos to empty
+main debug: waiting decoder fifos to empty
+main debug: waiting decoder fifos to empty
+main debug: waiting decoder fifos to empty
+direct3d debug: WinProc WM_DESTROY
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+mamiani nd edbeubgu:g : reVmoouvtiDnigs pmloadyuElvee n"ta v'croedseicz"e
+' 227211300x22721a1vc312 odweicnd odebuwg
+: ffmpeg codec (Windows Media Audio 2) stopped
+main debug: killing decoder fourcc `WMA2', 0 PES in FIFO
+main debug: removing module "samplerate"
+main debug: removing module "scaletempo"
+directsound debug: closing audio device
+main debug: removing module "float_mixer"
+mamianin d ebdebugu:g : kVoeutDispelpiayEvenntg a u'rdeisioze 'output 
+0x1280 window
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (Windows Media Video VC1) stopped
+main debug: killing decoder fourcc `VC-1', 0 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+mmaaiinn deb udge:b ugV:o utrDeimsopvlianygE vmeondtu l'er e"saiszfe"'
+ 261584656x2348m9a8i0n5 6d ewbiungd:o w
+Program doesn't contain anymore ES
+main debug: removing module "record"
+main debug: removing module "filesystem"
+main error: Failed to resize display
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+avi warning: cannot get packet header, track disabled
+main debug: EOF reached
+main debug: waiting decoder fifos to empty
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+direct3d debug: WinProc WM_DESTROY
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (MPEG-4 Video) stopped
+main debug: killing decoder fourcc `mp4v', 0 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+mainmai debugn:  derbemovuingg m: odule V"oaviu"t
+DisplayEmvenatin ' resdeize' 1bxug22: 911r0em9ov8in0g  mowidnudlowe "
+record"
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+main debugm: ainremov ierngror m: odFulae "ilfeidle tso ystrem"es
+ize display
+main debug: Program doesn't contain anymore ES
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+direct3d debug: WinProc WM_DESTROY
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+direct3d debug: Display:332 (hr=0x80070578)
+main debug: VoutDisplayEvent 'resize' 1354549209x341572048 window
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+main debug: VoutDisplayEvent 'resize' 1354549209x341572048 window
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+main debug: VoutDisplayEvent 'resize' 1354549209x341572048 window
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+main debug: VoutDisplayEvent 'resize' 117452006x341572048 window
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+ts debug: eof ?
+main debug: EOF reached
+main debug: control: stopping input
+main debug: VoutDisplayEvent 'resize' 1354549209x341572048 window
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (MPEG-1/2 Video) stopped
+main debug: killing decoder fourcc `mpgv', 0 PES in FIFO
+main debug: VoutDisplayEvent 'resize' 117452006x341572048 window
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+mamaiinn  dedbuegbug: : VoutDissavingp al ayEfrvent e're esivzoute' 
+117452006x341572048 window
+main debug: VoutDisplayEvent 'resize' 0x1920 window
+main debug: reusing provided vout
+mainma iernro derbug: : Faireled tmoovi rng moedsulize deis pl"aypacke
+tizer_mpegvideo"
+main debug: removing module "a52"
+main debug: killing decoder fourcc `a52 ', 0 PES in FIFO
+main debug: removing module "samplerate"
+main debug: removing module "a52tofloat32"
+main debug: removing module "scaletempo"
+main debug: removing module "simple_channel_mixer"
+directsound debug: closing audio device
+main debug: removing module "float_mixer"
+main debug: keeping audio output
+main debug: removing module "ts"
+ts debug: pid list:
+ts debug:   - pid[0] seen
+ts debug:   - pid[1000] seen
+ts debug:   - pid[1001] seen
+main debug: Program doesn't contain anymore ES
+ts debug:   - pid[1002] seen
+ts debug:   - pid[8191] seen
+main debug: removing module "record"
+main debug: removing module "filesystem"
+main debug: removing module "directsound"
+main debug: destroying useless vout
+main debug: removing module "direct3d"
+direct3d debug: Direct3D scene released successfully
+main debug: removing module "freetype"
+main debug: removing module "yuvp"
+main debug: removing module "swscale"
+main debug: removing all interfaces
+main debug: exiting
+main debug: no exit handler
+main debug: removing module "logger"
+-- logger module stopped --
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+main debug: Creating an input for 'A.avi'
+maim debug:ain debug: anusing timeshiftp'
+ranularity of 50 MiB, in path 'C:\Users\omzhee\AppData\Local\Temp'
+mminidnb debuu:sirentgn  tn inpuifftr 'A.wnu'l
+arity of 50 MiB, in path 'C:\Users\omzhee\AppData\Local\Temp'
+main debug: using timeshift granularity of 50 MiB, in path 'C:\Users\omzhee\AppData\Local\Temp'
+main debug: `file://mmaanro debu: : NDileln/e//d:/rPrjeitstgiveS Cactens//.witpe' gemusxa`cesss ` i`ee d dPrux `' pNthS/ContProjects/NDS/
+Contents/A..mtm'
+in debug: cmmatiagidemdx:bcreceissatefnil: ' cd: as=='f l'fileiondx='' 'orcaecto/oN=S/:Contoentts/NDavCo nttnn='d:..w' fe fil\ND\PrConcts\s\SNavonte
+nts\A.tpwm
+v'
+main deabu i:  d: kug:o okinaccfo r accussesod_le matmchuie ma"fnling: "l2il:": id taesda
+tess
+mmmaiiebud:ebug: cceo _aemcuxsdeoux modulas m machch
+ed
+
+main dmmai: derbati:g accessgiaclg  ac'catso' lfcatPronlo/da/trioConts/NDS/Coptt, path/=o', enth='d:vi'rDjScthCod:S\Conee.tps\A
+DSm\'C
+ontmnintain debulo
+oklog for acacens edebmle malcmotc "fig ""or ea: c0 candedul
+e ma
+tching "file": 20 candidates
+filfsfsile dsesuge:bud: popenniofinien gd df\Prje`cts\\rDSeCctse\ttD\\\Comv'
+nts\A.avi'
+main debuu:muin debu accessin adccees s" fiele"syiltsymstee
+m"
+mamn iebueg: : :Ung ssring streetm d fthStreor AS
+tr
+eam*
+mamn debugm g:n stebrg: re-bre-bringing
+ufferainmaibu
+ debug: crivma n d sb ugs tafectiv d eirst da
+matn  emaan debu- msf
+re-buffoman n d24buyt024pbe-bufierins - /99 
+1024 b
+ytes mai0s  ain d  Kuo:kisl
+g for streamaif debug:ter mo mat mor stinga"an 6 cer cidatlda t
+es
+hing "any": 6 candidates
+mmim n nebugbugn  strestrefamer moedules maech m
+tched
+mman m diu ugebul:koking kinr str a_treite_erilterlle malchingtchecor"rec 6rccani6idands
+id
+ates
+main ddebug:g :using  stream_fiftteer  odulu e recorord
+main debug: creating dmmmi: a ebesug:filreatng u deux: a cction''fiil/Proeemux=/N lS/Conion='/d:/Projects/NNDS:CorojectssA.NDS\' oile='ds\\Aojatct'NDS\Contents\Apwmvin debug: malmadek uegborg:eomukikingor dedumhimomodule : tciing "ada"::6
+ candidatess
+avi debug: alsf warnI '>: 
+unknown asf object (not loaded): 0xd9aade20-0x7c17-0x4f9c-0xbc288555dd98a2avi
+ debug: <list 'hdrl'>
+asf debug: avi deboug: 
+<list 'strl'>
+asf debug: a vi  'Hbudg:'
+</list 'strl'>
+avi debugg: <list 'odml'xte
+nded content description'
+avi debug: </lisa sodmldd
+ ug:u :|a  |  al+d:'ti<n nt Descrextit
+on'
+avi asf g: busk pping movi thunka Pning: tilost
+ synchro
+aai f deb:eg: glist |AVpi+ ' 1
+9 bytes tengarbage
+
+: * LIST-roo  wargi:577   4 p sy  +
+ 'La
+nguaga Lis 'edebug:  a f  ebIg 38 I   |   | 7arb 6gUns:0
+n'
+avi dening:     |t  + ch ST hdMrta sts d
+:4ug:8skis:pinb
+g 57 by|e aof| dar|u    
+    |   | 
+ t+  aarnins:iae:f 6 epohs:
+24
+|   |t  |   ug'E xdteng:ied  6St|r e| m + LbSeTt-st
+rl siza:424debug: r|
+ing:   | oatviExtchnded
+ St    |Pr   d ti g:'
+ sksirhpasg  d 56 gos :|00 arbage 
+  vi'Unknow: 't
+    |   |a: fl seb+ ynrchroi 
+|e:4 + tCo:1e4Lis t'
+skippina 11adsf d: uof: g|r  a    
+ + + StUNK sizrt:4r20rnong
+: 2
+lost synahrf 
+avi debuts debu :|  s| ea+ LISTertils'
+ of:260 aagf 
+4d4eb
+ug: |   | wa + ing: e  |   s ync rro erties'
+zts debua::4352
+ug: ng|  av 'Data'  gar bag  
+sf debug: ize:3576  tos:4608ng: lost syashroeebug: a tsd n wugauLIsT-movi s(co1 e73t3x16o,os::81a2
+e
+maivi debug: s lecting pridx1 sizd=08816 pos:5745570
+avi debug: AVIH: 1 stream, flags  HAS_INDEX 
+avi debug: stream[0] rate:30 scale:1 saasf debug: 
+added new vavi debug: (ID:2)m[0] video(XVID) 1920x1080 24bpp 30.000000fps
+main debug: selecting program id=0
+main debug: using demux module "asf"
+avi debug: selected standard index for stream[0]
+avi debuts dstrea mP0] created 1801 ind
+ex entries
+tm aibugviu dew PAT tst for av] ubiitte  60e ib t_e\Pot 1en
+dex)S\Cots deb\u
+m: in debug: erusing demux 
+modulem"avt"e dug: g:loPMTCallBa meccndlebmog
+dule matinhisg reba gubtitle diMatein 
+d:\Projects\NDS\rsonten0s\
+id_pcr=1001
+msadebug: ug:   * esg for decoder m=2 fcc=mpgchi
+ng "any": 39 candidates
+main debug: selecting program id=1
+ts debug:   * es pid=1002 type=129 dr->i_tag=0x5
+ts debug:   * es pid=10a2vtype=129 bug: a52 ing to use direct rendering
+avcodec debug: allowing 4 thread(s) for dlcesdygdebuwarniag: odunimplemented que Media Audn controlrted
+main debmain debnug: mux inodule "der m
+odule "avcodec"
+main debug: looking farvc suc i dlegfi: avlooec crdfjectsecoS4 Vidteo)e ma
+tching
+ "any": m9 candidates
+uminig decoder looking for dec"o
+der modaleo ematcbug:  "any": 39 cantryingst use dmrect debug: inlo
+oking for mavca ecdeburu: otdallowinghine drerect)recaeringtding
+
+avcodec debug: allowing 4 thread(s) for decoding
+lua debug: Trying Lua scripts in C:\Users\omzhee\AppData\Roaming\vlc\lua\meta\reader
+avcodua debug:  Trying Lua ec (ipts in D \Proa ebts:o Va1coS20arcodd
+owsPlayG-a/ib d8delg) stesatnde 
+dero
+er avcode "mevingd:ebug
+singno imeethread mo doe with a4 htdn debu
+g: lookimg for meta reusing decoder module "avcodec"ca
+ndidates
+main debug: `file:/g for packects/NDS/oCole mnatching "anaude bsuf:nd daTpsing L
+ua scripts in C:\Users\omzhee\AppData\Roaming\vlc\lua\meta\reader
+maa  debuug: Buying Lua s%ipts in D:\Projects\NDS\NDS20_WindowsPlayer\lib\x86\lua\mata\ieeuader
+Bufuesing pma
+intidebug:dule "meacketizer_maenuvesbueo c
+udf
+fering 16%
+main debmg: n`fiain: d///gf: rinljecok
+iNDg/ ofoeadecoAebrg:mo Buffessang 3i3%g
+n"end: 39 camaidnt sd
+ebuain debuB: ffeBuig 4din
+g :0%
+using decnoddbegr  moffueri"ng "
+0%
+main in degu:: Buffenmats debogmdre 
+MUX_SxEgT_ GBoknPud fer et0iaennt  debo%ge:
+umdemadrtugcarfoknmr oieduaulgge "a :2 Bodu
+le  g "chann 2 in6n:ddic
+andid
+atmai
+n deg:ug: 
+BBuferiri 75 3
+3%
+lua mebug debug: ing ffe scani pt3%g:
+ C:Buffering h44\m
+aiat \ffrmietype:tldeBmupafee nU iindegb uAgr%lu
+a UsiBu Afamisnai l uaescrt% tg
+f inmnftul oe c:mionDS\NiS00fW ndooisFP aeer\
+\W\xna\luiwns\ FdBuedfbt
+uiag\i.n rinS
+aelr.etatmf 
+bufferib 6go%n
+e met( 32a5efmreeuien  y1c0ed 
+mse)
+debugmainidefune i`pe edebugg: PruBeinffeDS/Coiizn s/A
+  p72suc%
+ifn ly bop: dedsi
+:  textsmieamerer debdu:leu "ufege:i ng Be
+%u
+rff emodule "rfirinegetug:p 88loo
+k
+ing for midio depteck miodm_ki ma gd obfuenu": 5sicaf didori 08
+0g i1sl2t0e70
+
+2 module matching "any": 55 candidates
+mamaadebun  ddeebbam buffering donekriin3ngs s wsna% cd abuem ren)3er
+chg: mdule VA -r> g :a16 "VAr can 6xaBA ch
+roma:caRGng usth g Bling us (ggofrqeuayli t(gugo
+m quasiinn  
+dgebbugg:A asBnu vebui filterng mvi%e
+o t" fwr2 afoi"le
+e" wCc:\eWi
+ndomsain ma\an :dlettug:  forlvooekifil fro rodviedmeoc fniltaeyr:2 5 oaddudlee 
+matching "any": 55 candidates
+mfareetypien  debug:d ebug: uBsuifferinngg font s5i0z%e
+: 2
+main debug: using text renderer module "freetype"
+main debugmyayuvdpnfufdue:r binugg :A  YUVArokinv
+geroterim
+eaifilderm2 iodulengat iduo fnn ":r2 5 cafled "tes
+d"u
+le "yuvp"
+main debug: swsBcaleu defbugf: erin32gx 32 chr8o3m%a: 
+YUVA -> 16x16 chroma: RGBA with scaling using Bicubic (good quality)
+main debug: using video filter2 module "swscale"
+a52m aidne bdebuugg::  maliono Ad/e5b2 ucgkhi:na gn Snfetoreral smv bi:ufdf6eo e frisianmgp dloene r(l3a0t0e :m4st eir8n0 01204 mod  mbusle) miattrcahtain  db
+ug:g 0 0eint
+erly"ing aacaildablte
+
+yuvp debug: YUVP to YUVA converter
+main debug: using video filter2 module "yuvp"
+main debug:main debug: ce 0, mode blend, is_needed 0
+s_needed 0
+mainn debugg: Oppening vout display wrappper
+main debug: Deimmeiinacibggg:valoookegg for vout display moduuleematchching "any: 1010 candidates
+
+main debug: deinterlace 0, mode blend, is_needed 0
+main debug: Opening vout display wrapper
+main debug: looking for vout display module matching "any": 10 candidates
+dirrrce3ddt3dbugbu gc racareiaoingEoVt t vean
+tThread
+ddirct3t3  debu:g:  DiDicttctCeereaWiWdowoww
+
+mmain ebbbu:  looooingg or vvut  window hwnd  moduule matching "embed-hwwnd,anyy":  3 caanddiidt
+ess
+mmaai n bdeuugusiuu vonuv  wt wiodo  hwndnd mdode "eraawaababe
+e"
+
+ddiret3t3d edebbugc  ecred vtdeo deo wi suwi-
+wiw
+ndow
+direct3d dedut3ecd3V dgt uge ttTEouttEvenetTnhrgadingu
+nnidir
+ecd3d ectb3gd edt3au gdg:s reedssablli
+ng screenns vsra
+ver
+direct3d debug: Dideci3rece3vicde:b g:  el(ir) 3HDD Deaihics Inl(R) HD HD2Gph5a s 4
+00 0 00 329 2 85  9
+
+main debug: VoutDisplayEvent 'resimea 1936x1ug:  winduwm
+aispldebuve:  'VeoutDis12ayEvent 'resiz
+e' 1936x1118 window
+direct33dd arrrngngt yittrsurgg surfxacef pirxe f: Yat1a2
+: 
+YV12
+ddricr3ddt3e debug:sbele ectdld uteda s pixelelpfomel fis YV1i
+ 
+YV12
+dirdcirdir3d de uUs ngUsinU DinTE D_LRTfor  _iLIfiEatRon
+oro m
+inifdirectnd
+irdct3udi desing: 3DTE:siUsiNE DR fTErFmaLnNifRR foronaagnificacadti
+iont3d ddburecdDiidrbegcts3iredt3D te: sneDirseaullDds
+cencesseatlyre
+ct3d debfg:diDi
+rect3Ddebdugr edDiter sdDecbuvi:u ly Diite clt3eDs
+delv inctea iaddtain  udeebugumlys iebug: tausipngydv
+ut display module
+ "diremt3a"i
+n debug: usingmvount ebmainao imogdl oe rmanaecz 1d"mt sz 1280x7200), v (0,0), vs8z 128cx 20, 4cc aI41:1m aaik  0x msk x: x0 o0
+x0 ib0x f
+ommatinz d9ebm108  , be mom0)revizvigg20momo0,uilclI4" f oar e:1betestpg0x0 gy
+Ev"tDx
+n0p
+layEizen 50a 'm2am8 sdiezwdien :5b
+gg: o3o5k0ing  for wtexti ndorwen
+derer module matching "any": 2 candidates
+roVking forfrexp ylenderur mondtu  me' rienas "oznt ":y 2filenddaWinm wando e
+rormnrr debsg:\ arial.ttf
+lailkei ftg  oresextytr ep oerer mtodu
+: e
+g: tching "any": 2 candidates
+Using Arialfase fy
+pe deom file C:\WindowU\Fsnismg miaAa neii oae adre:s ru:ag :l 
+Ft  tsrieo zd gt oillyox
+n  tCe dp\
+Windows\Fonts\ari lsrpfe
+ndlerera ymo
+dule "freetype"
+frreetyepdeb debug: uuisi favmsidoin  n
+etug: iomaein: d Fgat
+iusde  tex 
+a renns izr moiebsupgre:a pe
+u
+sing text renderem moiune "fbueg: pc"e
+ting audio output
+main debug: looking for audio output moavdcuodlee cm daebugt:chi ng u"sianngy "d:i r6e ctcan dirdaendertiesn
+g
+avcodec debug: using direct rendering
+main debug: End of video preroll
+main debug: Received first picture
+main debug: End of video preroll
+main debug: Received first picture
+main debug: End of video preroll
+main debug: Received first picture
+directsound debug: found 2 devices
+main debug: using audio output module "directsound"
+directsound debug: Opening DirectSound Audio Output
+main debug: Detected interlaced video
+main debug: deinterlace 0, mode blend, is_needed 1
+directsound debug: Windows speaker config: Stereo and stream has 6 channels, using 2 channels
+main debug: output 'f32l' 48000 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'a52 ' 48000 Hz 3F2R/LFE frame=1536 samples/1792 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 48000 rate, 6 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+scaletempo debug: 1.000 scale, 1440.000 stride_in, 1440 stride_out, 1152 standing, 288 overlap, 672 search, 2400 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'a52 '->'f32l' 48000 Hz->48000 Hz 3F2R/LFE->3F2R/LFE
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: no audio converter modules matched
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "a52tofloat32"
+main debug: conversion pipeline complete
+main debug: conversion: 'f32l'->'f32l' 48000 Hz->48000 Hz 3F2R/LFE->Stereo
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "simple_channel_mixer"
+main debug: conversion pipeline complete
+main debug: looking for audio resampler module matching "any": 3 candidates
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+main debug: Decoder buffering done in 302 ms
+scaletempo debug: 2.000 scale, 2880.000 stride_in, 1440 stride_out
+main debug: inserting 6814 zeroes
+main debug: Decoder buffering done in 330 ms
+main debug: Decoder buffering done in 347 ms
+main error: ES_OUT_SET_(GROUP_)PCR  is called too late (pts_delay increased to 300 ms)
+main error: ES_OUT_RESET_PCR called
+main warning: early picture skipped
+main debug: Bufferinga vco0dec% warn
+ing: Physical channel configuration not set : guessingm
+ain debug:m ainBu defbfuegring :5 0%creat
+ing audio output
+main debug: looking for audio output module matching "any"ma:in  6d cebanudigda:t esStr
+eam buffering done (336 ms in 2 ms)
+main debug: End of video preroll
+main debug: Received first picture
+directsound debug: found 2 mevii cerni
+ng: playback too late (665main dp-sg: mspnl indgo
+output module "directsound"
+directsound debug: Opening DirectSound Audio Output
+directsound debug: Windows speaker config: Stereo and stream has 2 channels, using 2 channels
+main debug: output 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 44100 rate, 2 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+scaletempo debug: 1.000 scale, 1323.000 stride_in, 1323 stride_out, 1059 standing, 264 overlap, 617 search, 2204 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: looking for audio resampler module matching "any": 3 candidates
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+main debug: Decoder buffering done in 47 ms
+scaletempo debug: 2.000 scale, 2646.000 stride_in, 1323 stride_out
+main debug: inserting 4316 zeroes
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 44 ms)
+main warning: picture is too late to be displayed (missing 27 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main warning: picture is too late to be displayed (missing 44 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main debug: auto hiding mouse cursor
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 29 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 34 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 33 ms)
+main debug: picture might be displayed late (missing 17 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main warning: picture is too late to be displayed (missing 20 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 33 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main warning: picture is too late to be displayed (missing 54 ms)
+main warning: picture is too late to be displayed (missing 37 ms)
+main warning: picture is too late to be displayed (missing 21 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main debug: auto hiding mouse cursor
+main debug: auto hiding mouse cursor
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 27 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 27 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main warning: picture is too late to be displayed (missing 44 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 13 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 33 ms)
+main debug: picture might be displayed late (missing 17 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 51 ms)
+main warning: picture is too late to be displayed (missing 34 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 60 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main debug: picture might be displayed late (missing 19 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 61 ms)
+main warning: picture is too late to be displayed (missing 45 ms)
+main warning: picture is too late to be displayed (missing 29 ms)
+main debug: picture might be displayed late (missing 13 ms)
+main warning: picture is too late to be displayed (missing 54 ms)
+main warning: picture is too late to be displayed (missing 38 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 54 ms)
+main warning: picture is too late to be displayed (missing 37 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+main debug: control: stopping input
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (MPEG-4 Video) stopped
+main debug: killing decoder fourcc `mp4v', 1 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+main debug: removing module "avi"
+main debug: removing module "record"
+main debug: removing module "filesystem"
+mamiani nd eebrurgo:r : PrFoagirlaemd  dtooe srne'sti zceo ndtiasipnla ya
+nymore ES
+main debug: destroying useless vout
+main debug: removing module "direct3d"
+direct3d debug: Direct3D scene released successfully
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "freetype"
+main debug: removing module "yuvp"
+main debug: removing module "swscale"
+main debug: control: stopping input
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (MPEG-1/2 Video) stopped
+main debug: killing decoder fourcc `mpgv', 0 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+main debug: removing module "packetizer_mpegvideo"
+main debug: removing modumlea "ian52 "e
+rror: Fmaaiinl deed tboug :r eksiilzlieng  ddeicodserp flayo
+urcc `a52 ', 0 PES in FIFO
+main debug: removing module "samplerate"
+main debug: removing module "a52tofloat32"
+main debug: removing module "scaletempo"
+main debug: removing module "simple_channel_mixer"
+directsound debug: closing audio device
+main debug: removing module "float_mixer"
+main debug: keeping audio output
+main debug: removing module "ts"
+ts debug: pid list:
+ts debug:   - pid[0] seen
+ts debug:   - pid[1000] seen
+ts debug:   - pid[1001] seen
+main debug: Program doesn't contain anymore ES
+ts debug:   - pid[1002] seen
+ts debug:   - pid[8191] seen
+main debug: removing module "record"
+main debug: removing module "filesystem"
+main debug: removing module "directsound"
+main debug: destroying useless vout
+main debug: removing module "direct3d"
+direct3d debug: Direct3D scene released successfully
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "freetype"
+main debug: removing module "yuvp"
+main debug: removing module "swscale"
+main debug: control: stopping input
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (Windows Media Audio 2) stopped
+main debug: killing decoder fourcc `WMA2', 0 PES in FIFO
+main debug: removing module "samplerate"
+main debug: removing module "scaletempo"
+directsound debug: closing audio device
+main debug: removing module "float_mixer"
+main debug: keeping audio output
+main warning: can't get output picture
+avcodec warning: disabling direct rendering
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (Windows Media Video VC1) stopped
+main debug: killing decoder fourcc `VC-1', 91 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+main debug: removing module "asf"
+main debug: Program doesn't contain anymore ES
+mainm daineb errourg: : Fariemovilnedg to r emosidze udislplea y"
+record"
+main debug: removing module "filesystem"
+main debug: removing module "directsound"
+main debug: destroying useless vout
+main debug: removing module "direct3d"
+direct3d debug: Direct3D scene released successfully
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "freetype"
+main debug: removing module "yuvp"
+main debug: removing module "swscale"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+main debug: Creating an input for 'A.avi'
+main debin debCg: atung an iimput for 'A.tp'rity of 50 MiB, in path 'C:\Users\omzhee\AppData\Local\Temp'
+main debug: using timeshift granularity of 50 MiB, in path 'C:\Users\omzhee\AppData\Locmn dTemp':
+g: fileeatin:g anjectin/uNDfSr/'Wildlits/A.avi' g
+ives access `file' demux `' path `/d:/Projects/NDS/Contents/A.avi'
+main debuug:g: `rfaiing de/dmuPi:n ecess/g:Dle/ domuxenesshicA.tgionu=a'siay of 50 MiB, in path 'C:\Users\omz/ec\APpsojaict\ demalCTentp
+nth A.av/Projece=s/:\SProjecnts/A.tp'
+ontents\A.ami'n debug: creatmngain dxembucn  elug:i g foile:='esl:/atroujecods//eS/CjechintN/Aile"v' enivss acide's `l
+file' dermuects\NDS\Co`/d:/Projects/
+NDmain teebug: wnobucc eslookiux mfmaileceeatuhed
+xcreating decux ng "ce: e"' 1ting deccex='sflocation='/d:/Projects/NDmtainDS/nonge .wno' file,spa:\emuxjmodulesDSmCDScCont
+nts\A.'vi'
+main debug:mair  debng: aclooki'ng  e'  aaccess_=eoddx eodalectag "DS/C "nte2n saAdid'tesdath='d
+:\Projfilesystem debug:aAopeni
+ng f ilno d:aiss_jeetu\ Dl\dulite tsor.hacc
+es
+s module mamainnmain de: ug:0 candi access 
+ mfdille"filofatstem'/
+e:m debugts/aopenebut: nlts`/Ag Proj,ct a\hDh'd:oPorojes\A\tmDS\
+Contents\Amain'
+dmain: debuar  deg ng -bufokiig uoe "filesmmsidu de
+matching "filed n rstcandiUsftnr 
+0 ms
+am methods maon debureamen
+pre-fmlabuf dPrebugctdsn\N10S4  pye-eus Aiwmv'
+main debmg: aeciiven first dada 0ft - 0 us
+ing aciBin 
+modbueg: maisry-debmgr
+ g doleoo0kinagtnfoebugs -am_s00n0 K mt/sue
+a ma mhetm "inn :de6 cgnm*
+ales
+kimain debug: m_ftimtanrnmoreulb mferih g r"any": 6 r n oebate: 
+marchedvem first dua:a ano ug r eam_
+filg er im streugm_failte-r
+module g aomainng "ruy: rd"ook6ng andrd00000a
+ KiB/s
+er module mag: debu :g strekm:n6i cea mndulme iltr modu
+le matmhang  dma":i6  debui:tgesre
+ating detmrin acoeusle fire'sord"am
+_filter modulesd:mPtine ct
+ebug: /Coneemain d edugfix:eoa'cc\P o='fis\r' defunltnts\A.aution
+atching "mejord"e 6 DSandodatngtf
+or depm' mo de=ug:t'hiusi\gPrtr ac3 faDltCr mtenu
+ts\A.tpord
+"i
+debug:malisn 'AVI ':
+ ug:locreoaiingdeemux:eacce s='diue' 
+ mmux=aii debag: ='/ 6s3 csjedlida
+tDS/
+ontenas/ debug: file='d:\'srojem
+tdsdebu\: i Mebug: s\A.wmv'odml'>
+ (extia dib
+ug: ugloo</lisfor demu'> m
+oduletmstavirgdeaugf:":< 6 ista'hd
+l'>
+es
+ts debug:avs debug: fs9ipbyins no movni cge
+ as
+f object tnot loadeg: :alxdsdaade2c-0<7
+c17t 'A4fts'>dbc288555ebugei dsk
+ip: in* LI ST-f oot sg: a:5 '
+Unk4nown'
+
+ts warning:asl  ebebugch| 
+  + RIFFeArI  
+size:5 7sk38 dnpos:: b
+y|   of   ar 'exe
+ended conte nt dST-hditng:'ze
+:4588 poasro
+ebug: |   tsv + 'Contenk p es g 7pti+y as
+ of gaeas6 p
+s:24
+ |   |   +tsFildebung:e ti os'    |   +
+sf destrl: sieze:424 kipoina 9r bytes oia '
+ debug:
+ a    |   |   |   +rnir   + e:56 syac:eroist'
+taase  ugbug:  ipp      |   by+e + nktrf 'ize:4
+0 poa:164ebug: ts warni de blgst esy   | '
+|   |   + JUNassize:4: :sk|ps:i1   
+133 bytea oi dgar
+bage 
+   |a  |   + gL St-  warnii| ::260 px s:nde0 otream Proaertses'bg: :     |  ing e |2g: + d  lh sizrb2ge '
+pos:4352 Stream Proteatvss'w
+earg: ng    |debug Jnc|r  
+|   |    ps'Unbu08
+ '
+skipping 171 fytbugug  ga|ba|e  + LIST-movi siz'
+:5737370 pos: debug
+: |   |  avi debeam Pr    |   + 
+idx1 sizeasf debug::574   | 
+  + 'Stream PropbugtiesAV
+IH: 1 straam, flags  H|S_INDEX  'Stream Biarate Properstrs'am
+[0] rate:a0 f debug1 sa|plesize:0a'
+avi debugg: strund 2 streams
+XVID) 192ax10 d0 bug: p 30.000000fpsio stream(codmc:ai1n ,de:1u
+g: selecmain debug:  id=0cting program id=0
+ts debug: PATCallBack calladv
+i debug: selected stsndaebug:sf deewg: rAT [0]
+ied=v0daviosideba0: Ist:eam_
+ne ct=1ted 1801 indextes rdes
+ug:   * number=1 i ide=10: 0
+stream[0] lts dh:ug: (bPMTCallBanck ma
+ilnd
+debmgain using: s dubug: ulew masT pe ogram n
+umber=1 version=0mpid_ mebun  1eb
+ug: nglfor a g ubt: a e *ile pi fi10e iojd:tPr fjec=monveS
+\Cont
+entsma
+in debug: selecting program mdm1
+inebug: g:lookinglookidecoder module matching a"anyn: g "annd"idates
+ndidatest
+s debug:   * es pid=1002 type=129 dr->i_tag=0x5
+avcodec tebug: ugt rying to use d0irect rendering
+a52 
+avcodec debug: allowing 4 thread(s) for decoding
+avcoaev dodeuc  dabugod ec codec (MPEG-4codeces) tem ws M
+edia Audno n2debengetedusing decodein detuue "
+avcodecg m
+ain debugd:le uavcodec"ux module "ts"
+main in inbdelook ngkiongnmfoo decoder mtle filmatcn d:\ "roj"c: 3\Ncandidatens\
+main debugavcodec ndeborg:eecode  Toyineusatadisec "any i: 39 c
+andidatezhe
+eodAppData\Roaming\vlg 4 threada\re for d
+ec dingug
+: tryilu  tobug:e dTrect  Lua script
+s in D:\Paojeodea\cdodeg:Sde0uWi ingwcoPehrear\ls ( x86rlwsecodia V
+eideo 
+VC1) started
+mamnaden de:  de ugusineadecoc ododloc (e "cG-cod
+ Vide
+o) started
+debug: `file:/a/d:/ProjecnsgdNDS/gonteloice ahrfod metessfulh r thrules
+atching "anmmi in caudug  tuBu
+ffering 0%
+module "avcodmc"
+n debug: Buffieringu 8%
+ debug: for packetizer modtm in tChingersBumf: i1 gcandat
+a\Roam
+ing\vlc\lua\mmaa\nreebugr  
+uBing paing 25%e
+ moddulue  "pmrayting L_ap: criudfs i
+n D:\P
+rojects\NDS\NDS20_WindomsiPlayeur: libu\fem6aiu \4et%\ 
+ealoo
+king marn debcomiri:on bduga: hno:feta r: 39k nidnng  fe5to
+h0dr
+% 
+text remdeir erbug: u`fiilemn///d:iheodjncgg "gan:g  nt B2u fcfanee r"indg2"sft%lls
+
+opened
+main debmain deuftefrrebfg: er yn6X_Se%
+ Gdebug:  00U0msaii
+nnm aiAerbebaug :  aB u fffefriiggm fgf 1ne5  re
+mbfer: m:\Wimoknimowns n oeord eg2b caax tat ulfenfedn
+greirn
+ modugle mat c2aini%debu
+g: nBlua2dcngng:ida
+tyesgLua mcaiinsd iin  dBufgffr:r m zheyupf
+rfeettyReibminug\:m1\ 0Unsia nr dAenrbiui
+izne :ufeaugs  2rS trgng  bmuff%eg imi nngrCi\ddndob s\geo:an (tss3Dn2nDS5turgitsawlB.aun n8ib\ x
+86\gua
+\o%eu
+le "fadetre"
+mamm deb egeg:uf :ing f metri rea der modmolel
+e m: cheusi
+nanyfo n5tcmain adt buge:b u`2:
+ eBu//d:/Pnrong  de7NDuS/C 
+using /eA. tpndesreresmfulldebuegldee32x32 fchemBe: YdyVA eu>g:in6 chffm
+a: ng A in hdseabing umilaoBickinnc (g ooe qb uivygi
+deo fpiat keaiu efr_mg:dgeuueoldevuidmao tfzc0ter% m0
+g u"an=2".9sc5ac
+a"n
+mdaiidna teasndebbu
+ug: ebug:eaBufur irnma  filte3d%emduin 8alosong 
+"s for: 55xtcr:ndi3d2te3d
+ le mmayuin debuy"  21UcPndodYa: s 
+coA with sc
+aling usinm aicubieb(ugod qusatyp e i
+dmoeailtg:i2 mo eule "y bApui
+ga vi  aBsfiltofnfte rfr osmicale"g
+l e 3C3:%\Wi
+ndowm\aoitn adeal.g:f 
+looking for video filter2 module matching "any": 55 candidateetse debug: using fontsize: 2y
+uvp debug: YUVP to YUVAdebon:vmarterib n:gdeeinterdt:cug:  aeBreaurl eo
+dfuerlir2 5med 0e"%f
+re"
+type"
+main debug: looking for video filter2 module matching "any": 55 candidates
+main debug: Bufferswsicalen debugg:  6632x%32
+ chmoaainYUVAbu> 16x1d einoma: RceA withmoscalinndu,i i s_nubic (goo
+d quality)
+main debug: usinmagmn mn dnbueebb fueDilng vrl Bcffsgmray wrappe3
+e
+% 
+"swscale"
+main debug: looking for vout idisplay: module matching "orny": 1o filterates
+dule matching "any": 55 candidates
+mayia uevug:  d2id eddaee eb budegbbgn:  isuYegdSU 0t
+:r eaAm/5P2   bcthouafn fYUeVrAi nngec ldso:nodv6ng: seare tme vo( de3splay wmea:im
+ns4  idne b1u81g 0: 0muug: s)i
+nbgng fvraiott display 000ul
+i matching "any": 10 c
+andidates
+main debug: Deinterlacing available
+main debug: deinterlace 0, mode blend,irect3d debug
+: creating Vout EventThread
+madnidebug:  dOpeningDirectXCreateWinapow
+r
+mmain dbuud:irllokin dg bfr :oucreaisndaow odEle nmtchringmat
+chi"n g0 candid-hwnd
+,any": 3 candidates
+diremtin debug:  uDirectXCreateWindow
+d module "drawmble"debug: looking for vout window hwnd module matching "embed-hwnd,any": 3 candidates
+main debug: using vout window hwnd module "drawable"
+direct3d debug: creating Vout EventThread
+dirret3t3dd  e:bugg:e aDid vitdXo dseuo -swi-
+dow
+ow
+maiectirbdct: d ug:ug:Vout utoentTtrhred r wnui mon
+g
+e matcdirg "c3d d -bundg andi:ablcandidates saver
+main debug: using vout window hwnd moduled"irawabtle ir
+ect3 dDirecg:3d DevrcectIdntel(ce: Intel(ph) HD Graphics 4000 32
+902 358 9
+direct3d debug: created video sub-window
+direct3d debug: Vout EventThread running
+direct3d debug: disabling screen saver
+direct3d debug: Direct3d Device: Intel(R) HD Graphics 4000 32902 358 9
+main debug: VoutDisplayEvent 'resize' 1936x1118 window
+main debug: VoutDisplayEvent 'resize' 1296x758 window
+direct3d warning: trying surface pixel format: YV12
+direct3d debug: selected surface pixel format is YV12
+dirrecc3t 3d debug :tryUng surface pixel AR for minific
+ation
+directdi debug: debug: Using ed DTEXFace NpiR forformanificaYV12
+
+ddrirect3d dbugug  Uiseing D3DeTEXcF_aLINEsuc fsorulmyi
+nificationr
+ct3d debug: Didirect3d debugadapUsing D3DTEfully initial mzedificatioma
+in debug: VoutDaisp debugen t usesize3' scdisx1aeatedinsucdesrscfudl
+ly
+dair debug: ebor: ginal format sz 1920x1080, of (0,0), vsz 1920x1080Direc I42 dev reaad3ap:1,nisgcrctrsfg0nxl0 bfixe t
+ialil d
+ommai: YV1bu
+g: mrenmdevrin:  3u ddagiv:l seleeplae  mory:l e  "xe
+iutermatlay
+EvVm2e
+ant i'rnes ized'eb u36gm:in d00uge:t3dwkigbudaw fo
+gimfar3 TzxXF_LIx7e2R, oofoduie ic tcioin "0a7ny, 4cc I420, sar 1
+:1, msk r0x0 g0x0 b0x0
+mdieeeyc ndd ed:ebug: g: : VroietDmioalFals fonn vog manili i:\atilde
+e \Fonfzear' lettfe
+0txy3p50 ewi"nd
+ow
+miaic debuegbdugug: Direct3D scene created successfully
+lsongkiodn fiot3d  rdetbug: de
+rer module mDFracte "tdmevayiinadapt en sucanrss:us
+ing titiiarsnde
+de
+r seo du top"
+freetype"
+maanfreeeu de dugu:  Uusninnout mispncti no urso nrreo 3d"
+ anfiailo
+de d ftoo  rrCssi\ziez ddispel ais
+olin aetys:
+\arial.al fo
+rmat sz 1920x1080, of (0,0), vsz 1920x1080, 4cc I420, sar 1:1, msk r0x0 g0x0 bfx0
+eetype debug: umiag fontsize: re
+moving mmdalin debetyp e"u
+siingd tug:t reutDesrlrmmadule "freenteb 'r
+esuigze' 5:0 0xl2o8o0k inwingdo wfor
+ text renderer module matching "any": 2 candidates
+afreetypee ud:ebug: Usingg direatlr nas ifon
+t from file C:\Windows\Fonts\arial.ttf
+freetype debug: using fontsize:m a2i
+n error: Famialiend  tod set eobnug : topusing 
+text renderer module "freetype"
+maia vicug dedceb ugd: ebug: End of nvideo preroll
+ueirrreocr:t  idrdebugai  Roeuived firstd
+ ctrrei
+snigz
+e dmisplaya
+in debug: looking for audio output module matching "any": 6 candidates
+directsound debug: found 2 devices
+main debug: using audio output module "directsound"
+directsound debug: Opening DirectSound Audio Output
+main debug: End of video preroll
+main debug: Received first picture
+main debug: End of video preroll
+main debug: Received first picture
+directsound debug: Windows speaker config: Stereo and stream has 6 channels, using 2 channels
+main debug: output 'f32l' 48000 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'a52 ' 48000 Hz 3F2R/LFE frame=1536 samples/1792 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 48000 rate, 6 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+scaletempo debug: 1.000 scale, 1440.000 stride_in, 1440 stride_out, 1152 standing, 288 overlap, 672 search, 2400 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'a52 '->'f32l' 48000 Hz->48000 Hz 3F2R/LFE->3F2R/LFE
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: no audio converter modules matched
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "a52tofloat32"
+main debug: conversion pipeline complete
+main debug: conversion: 'f32l'->'f32l' 48000 Hz->48000 Hz 3F2R/LFE->Stereo
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "simple_channel_mixer"
+main debug: conversion pipeline complete
+main debug: looking for audio resampler module matching "any": 3 candidates
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+main debug: Detected interlaced video
+main debug: deinterlace 0, mode blend, is_needed 1
+main debug: Decoder buffering done in 266 ms
+scaletempo debug: 2.000 scale, 2880.000 stride_in, 1440 stride_out
+main debug: inserting 6862 zeroes
+main debug: Decoder buffering done in 294 ms
+main debug: Decoder buffering done in 342 ms
+avcodec warning: Physical channel configuration not set : guessing
+main debug: creating audio output
+main debug: looking for audio output module matching "any": 6 candidates
+directsound debug: found 2 devices
+main debug: using audio output module "directsound"
+directsound debug: Opening DirectSound Audio Output
+directsound debug: Windows speaker config: Stereo and stream has 2 channels, using 2 channels
+main debug: output 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 44100 rate, 2 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+scaletempo debug: 1.000 scale, 1323.000 stride_in, 1323 stride_out, 1059 standing, 264 overlap, 617 search, 2204 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: looking fom audio reing: ler ayback  matchate (60574): up-sampling
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+scaletempo debug: 2.000 scale, 2646.000 stride_in, 1323 stride_out
+main debug: inserting 2905 zeroes
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 23 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 45 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main warning: picture is too late to be displayed (missing 44 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main debug: auto hiding mouse cursor
+main debug: auto hiding mouse cursor
+main warning: picture is too late to be displayed (missing 44 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main debug: auto hiding mouse cursor
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 29 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 29 ms)
+main debug: picture might be displayed late (missing 13 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 47 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 16 ms)
+mminindebuug:  picture might be displayed late (missing 3 ms)
+maii n bdge bpic urepmighture  dighpta be  atis(pilsanye2 ml)a
+te (missing 2 ms)
+maan n debu g:pictcture mghtht bedisplalaye late ( misssing 1 ms))
+main warning: picture is too late to be displayed (missing 47 ms)
+main warning: picture is too late to be displayed (miasinindgebpi:ctur
+icigre bmghd bd buig: alpt l (re minsht2 m dms)ayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main debug:  piccture mmight be  dsplpleayeate atessinissi mg 
+2 ms)
+mainidebug: g:picpicture might be displaylate (mismissing 1 ms
+)
+main ddeug: : piptirc tiuhre e iigphated e dispmissid latms)
+missing 2 ms)
+main deeub:ug:ictupeicighrt be dt belayesplate (mlisesimissinms) ms)
+main debug:g: icpire uright be displispelayaee (missi(mi 3 in)g
+ 2 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too lmteito be ding:layed (mise ing too late
+ to be displain d b(m:ipsitnrg m5g4t be)d
+splayed late (mimsaign1 wma)
+ning: picture is too late to be displayed (missing 37 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 54 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 37 ms)
+main debug: picture might be displayed late (missing 20 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 51 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main debug: picture might be displayed late (missing 19 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 34 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main warning: picture is too late to be displayed (missing 53 ms)
+main warning: picture is too late to be displayed (missing 37 ms)
+main warning: picture is too late to be displayed (missing 22 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main debug: control: stopping input
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (MPEG-4 Video) stopped
+main debug: killing decoder fourcc `mp4v', 0 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+main debug: removing module "avi"
+main debug: removing module "record"
+main debug: removing module "filesystem"
+main debug: Program doesn't contain anymore ES
+main debug: destroying useless vout
+main error: Failed to resize display
+main debug: removing module "direct3d"
+direct3d debug: Direct3D scene released successfully
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "freetype"
+main debug: removing module "yuvp"
+main debug: removing module "swscale"
+main debug: control: stopping input
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (MPEG-1/2 Video) stopped
+main debug: killing decoder fourcc `mpgv', 0 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+main debug: removing module "packetizer_mpegvideo"
+main debug: removing module "a52"
+mmaaiinn  errodrebu: g:F ailkedil ling tdo recoedersize  dfourcic `sa52 'p, lay0 
+PES in FIFO
+main debug: removing module "samplerate"
+main debug: removing module "a52tofloat32"
+main debug: removing module "scaletempo"
+main debug: removing module "simple_channel_mixer"
+directsound debug: closing audio device
+main debug: removing module "float_mixer"
+main debug: keeping audio output
+main debug: removing module "ts"
+ts debug: pid list:
+ts debug:   - pid[0] seen
+ts debug:   - pid[1000] seen
+ts debug:   - pid[1001] seen
+main debug: Program doesn't contain anymore ES
+ts debug:   - pid[1002] seen
+ts debug:   - pid[8191] seen
+main debug: removing module "record"
+main debug: removing module "filesystem"
+main debug: removing module "directsound"
+main debug: destroying useless vout
+main debug: removing module "direct3d"
+direct3d debug: Direct3D scene released successfully
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "freetype"
+main debug: removing module "yuvp"
+main debug: removing module "swscale"
+main debug: control: stopping input
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (Windows Media Audio 2) stopped
+main debug: killing decoder fourcc `WMA2', 0 PES in FIFO
+main debug: removing module "samplerate"
+main debug: removing module "scaletempo"
+directsound debug: closing audio device
+main debug: removing module "float_mixer"
+main debug: keeping audio output
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (Windows Media Video VC1) stopped
+main debug: killing decoder fourcc `VC-1', 61 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+main debug: removing module "asf"
+main debug: Program doesn't contain anymore ES
+mmaaini ner derboru: gFa:i led remtoo resivzing meo ddiule "sreplcord"a
+y
+main debug: removing module "filesystem"
+main debug: removing module "directsound"
+main debug: destroying useless vout
+main debug: removing module "direct3d"
+direct3d debug: Direct3D scene released successfully
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "freetype"
+main debug: removing module "yuvp"
+main debug: removing module "swscale"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+﻿-- logger module started --
+main debug: VLC media player - 2.1.5 Rincewind
+main debug: Copyright © 1996-2014 the VideoLAN team
+main debug: revision 2.1.5-9-gb3fd0af
+main debug: configured with ../extras/package/win32/../../../configure  '--enable-update-check' '--enable-lua' '--enable-faad' '--enable-flac' '--enable-theora' '--enable-twolame' '--enable-quicktime' '--enable-avcodec' '--enable-merge-ffmpeg' '--enable-dca' '--enable-mpc' '--enable-libass' '--enable-x264' '--enable-schroedinger' '--enable-realrtsp' '--enable-live555' '--enable-dvdread' '--enable-shout' '--enable-goom' '--enable-caca' '--disable-sdl' '--enable-qt' '--enable-skins2' '--enable-sse' '--enable-mmx' '--enable-libcddb' '--enable-zvbi' '--disable-telx' '--enable-nls' '--disable-dirac' '--host=i686-w64-mingw32' 'host_alias=i686-w64-mingw32'
+main debug: using interface module "logger"
+main debug: Creating an input for 'A.avi'
+maanin debugusiCg timeshift graut for 'A.tp'0 MiB, in path 'C:\Users\omzhee\AppData\Local\Temp'
+main debug: `file:///damn debug: gC u/Ptnojgcts/NnS/C ftanu'a/A.ilvio' 50 es Hc'ci
+ss nf le' de'C:x `' path `/d:/AppDatats/NDS/Content
+s/A.avi'
+main debug: creating deinx  acbess: filus deg xtim lshcition='a/mairi ydeft 5:  MiBlein tenpsrtAjeci'\UNse/C'\omPtroAjtpc gtaesS\Ccntemptfi
+Ae' demu
+x `' path `/d:mPaijecetus/ DSlContents/A.tp'ess_demux modulm matching "file"ating candix:dateess
+='file' meaix='' locati`fil/d://PrmjeProjecug/NDS/Cnact/Antp' miwmv' d:\PeojeaccessDS
+\Cont demum .tp'
+th `/d:/Projmactn aNDeug o tllo'/ingcmv'on='cess_PromuxitmoNule matchntea/A"ng d'emux2 h=cdeidarefje
+cts\demux=''telocationa'vdi/Pr
+ojectsnNo /Cmnss_dts/A.  modokles= d:\Phedess moduCoe ein debu. : v're": 20 candaist dile'  lolatikofi '/d:/Pcceeebug/N ux montene mattp',  "ojh='d:\PS\ojdidatsesS.avi'ents\A.tp'
+mmin deb de : using access mmuxale "fl mosulte dtching "file": mm cn dedbug: 
+Using strefcc methofi de  AStaroion=
+'/ file `dain debug: NseS\Ctintemvrs, .tpfe
+rin:\P
+rojects\NDm\Cmaid eseuug: v'
+ing accesis todultauafi tesy temgs
+for access mmduln deabuhin gUprile"f reai ag dond 1or2
+ AStream*i
+ fsi- 9sysmKaindeb
+ug: : openamgting  bug-\Projooking
+ for stenma\Afidtv' g: dure meivehdmafirst"bugtacaudierg  mc
+es
+s module "mmlain ebugg: prno ufmeramgfilter mUsine  m team0s 
+-hod for  mairedm*ug: lookmnmainr bureg: _starti ng urer-eatf_filtgrrecord": ma chide "any":
+ 6 candimfiret d
+aug: aftusing str
+eam_g: mtern debum_fipre- moffeles matone 10
+24 bbute: mc inati gud9  ux:/oac
+ing for se'eainmdix=uer  ocaulenma/do/Proream_/rd": 6 mtodul/A.avi
+chfile="adain d6 ucts\NDs\ng 
+stream_filmar 
+mdedule "reainddam
+_filtelookingasior dehbux
+ mocule matm dimu eb vi: ss=3 ile' foatex=
+'' locattia modul:/mrojehst ngA"recore
+d": /6 avniidatees :\<listc 'hNrlSebu
+g:tents\A.tp eam_filter min 'sbul: co
+roo
+king for i dmeximoduleg: ttc'ing i'>ny
+": 63  caavndideates  d<list 'odocatio
+n='/d:/Proo jebusbug: /C/ vtst do/tio'>' filed 'aviProp)
+:ts\ND/list 'hnts\A.w
+mv'
+ts viarnebng: g:loloosig mofo
+r demux
+ modtle mabug: ngskasfavn de u bndiea es 'AVI 'ge
+asa wars warninu* LIlo -r ootbject:
+577t lo4dtpos:eb9aade2skix7vi deb g:ctes bf2 RIrbadde8es2ae:
+774386 ptss w
+arning:u : lodsb ng: chr' 
+ |   + LISTastsl sugze:g:|88  pppi:Hea5
+7 by
+tes of aviasg dg: g:   |   |   + s virensed e:5osepot dehc
+rotion'a
+vi debug:ts d asf  dsbug: +g|   |  ers 'ooe tg44rpas:
+8ption'
+avi debug:ts f  eing   l| |      strhi
+ se Pr:ptr pos:10
+: 
+skipping 9f dvbu d: of   a    e
+ 'Head |r E +tnstrnrns
+ize :40oass synug: 
+|   |avi| te+ debng  ge Lis|  
+ | 4 byaJUNKde gze:4ag| 
+  |s:212
+  + 'Unknowt'
+avarningsf : l ust |sy        |   + d's tdze:g2 0skipping f 
+debug:esa|   |  uge: 
+  +   |   ing' |
+   +tdslharsi d: 48g: s:43nch
+ro|   + 'Eavitsded Sgream sr |pp  + J52K
+bytes o35asar agbug
+:8
+|   |   |   +avEtsendaug Sng:  m Prt  LISTs'mo
+
+vi size:57a73f 0ebbug819| 
+kipping  i+debytknownf  
+|   + i
+dx1assfe:28bu6 : s:574  |0 
+  + 'Coaeci debug:
+ AVIH: 1astfrdebug: lag   |   + 'DEX 
+am Propertieavi
+ debug: saseam[0] r: t|:30 scal+ '1 rsaamPpolersieze
+:0
+asf debuavi |ebug:   + 'Strea] video(XVID) 1920ies'
+0 24bpp 30.f00e00g00|   
++ 'Data'
+maasf ebebug:sefounin 2 streamsd=0
+asf debug: added new audio stream(codec:0x161,ID:1)
+main debug: selecting program id=0
+avi debug: selected standard index for stream[0]
+ts debug: PAaCvil dck cg:led
+stream[0] ctest d eb0u in ex enerw s
+AT ts_id=0 vi def dg:bugct eamnt_d extn thid60o (basam(soD:eing
+ x)
+ * number=1 pid=1000m
+ain debug: tu idgedbmug modulMTCalli"
+Back called
+mainm edue: ug:n ew oiMTipdg fram   subteitl ve"i
+ie i= d:\Projects0n 1S
+bug: ntloo
+kin d bug: a  sueb pit=1e f te pin=2:ebcc=mpgl
+oNDS\Cg mfois  d
+ecuod es mectulg  momahnm g "aug
+:"  3l oondidates
+ decoder module matching "any": 39 candidaavc
+dec debug: trying to use direct renderits
+debug:  a* es pc debug: tyal=129 d 4 threag=0x5
+for decoditgs
+ debug:   * es pid=1002 type=129 fcc=a52 va
+ovccodecug: bug: odea vcdod eci cows c d(M PEdio 2) deartest
+arted
+mainfdiluemsaus eebduc:ondungmngduelodplemcodele "
+avcodec"
+7 in control
+mainnm ade:b u:e blgdemlxgokforle rcoder
+ modulee  odaticnmadech"a:g " l9 yand2 fot di
+atbestl
+e file in d:\Projects\NDS\Contents\a
+vcodec debug: trying to use direct raenuaerdegnug
+o:k ng Tor iagvLcadeccrmidg:   alatoUsig 4 tmarey\"d(39acfa\ Rioaams
+ng
+\vlc\lua\meta\reader
+lua debug:d c Terey:ndg vc:  etc ysndgnc (W:\eordorecct renidrNo S
+210 _tWrndodc
+Poaderc mabiugdebuallow\rnag 4 
+threa do(s) afav ceeuec"n
+og 
+meta reader modules matched
+mavacnoddeug :lob`kfilv fo/demc ta jeeadePEDS/dCo Vienehsin.a "ated"
+: esscancoy o d
+bug:
+ using slice mhreaddebode with 4 threaris
+g 0%l
+ua dmbuin deiyn n:  uua  cripfscernng:mUs
+rle "avhee\AppD
+ata\Roaming\vlc\lma\iet drebdg:r
+lookfering r 6%lkeuazed eobuue m tchTnr yain": m21 canebpug: in
+Bufferinm as\N
+DS\NugSaiu ingdg: mkleifnayedmorulexnu\lkgtazeme_
+ pegvideo
+"okimnagi nm airn bduegb:ug :e derer module matching nBo me"ta: rrmi c modug4 s d%atche f
+or decmdarinnduebeg:  t`hfifge i"a:/rro e%9tsc/NDdibdagt eU
+As.wniv'd suugg ss ABllferriaien 
+ ga s58 %u
+sin fromcm ebr : deillebea5 "
+C:
+ :Buffer\iWindnogws\F on6t6s\%a
+rial.tmf
+tn  debbng:d ebEMgX: SBTr iegU1g 7 0
+0
+000000e
+bug: moakinn forugta diuffg: eedeitbng fgr n3edaberuerfroful rig ihdngd"a2es2iuz%e:d
+i at2hin
+gferinyg:  a9ind iemu%gi:tue ndstet uen maBn fferrenua 3%eg
+m:g: etyre ng ug: sieneis in  C:\Usei
+s
+u\om:  eem uafaeirnniatnn evlcbu afi:: %rla
+oe 
+or\Windowslubo de rfg: adiln. nt lgbf sror2B efeiin 2 5\ r
+mlse  s\tiDS\ 9Dhi nmgnda)"
+Plabe 5\ ifbBx8a6es
+uypfeta eeadir
+nbug:g  66umsai
+nn doebsuwe: a2e 
+mdeb meaim3r 32 du beauematAc-h e6x1
+u6 chr fea: RGBAn gieh7us%d 
+re` fuodul/Bicf:/Per(yjemtsa"ali
+t nde
+ntg: A.tpai sidece ridelliggg :ded
+l%olte
+inmodoa in"sdeebflg: 
+erm2afeinnmmode
+dbeulgu e mogkitchif:r videoBfiluerf":fdul5r maccpagketi1yer_m5 cg
+ned
+at de
+bug: size 1ma 0x1dg:0Yg fpS=oreUsawco
+nverteb 
+udfefbn debu:i buB udxousieginvid  r o33%bamg:s  ooii"yu pA9 
+ -m >s de1r moduleroma:chingA with : 2 candiusing 
+Bicubic (good quality)
+freetype dmaug: debug: ng Ariag vas fo filter f momule "snsc Widn
+edowbus\Fognts\: amiBan .utuf:tferlook
+ing3%
+r video filter2 module mamchnidngu :"Dein:e 5a5i gcaanilidae
+eet
+ype debug: usingyfovp debu 2 YUVP to YUViA cebug: tersi
+ng text renderer modulem"firedetuy: maun"n vidbug: in ufemafienr" idvnlegbu0, :mod  blend
+, is_needed 0
+eo filter2 module matching "any": 55 candidates
+main debug: Opening vout display wrapper
+swsmcaianmadebede gud: e bBuking fe r vog2 x6isp2% 
+ mroda:leU Am-a t6c1h inrgm " RnBy "i mainanddebdagt:e B
+eibnctegrol auciitg 
+available
+mamn debug: dddbuenterlace ff,:mode blenngg is_need%ed 
+0
+filter2 module "swscale"
+mainmaib ugb:g  lpening vout dispoaoa wrapper
+: A/52 chaknain debun: ls:6 kima fap vlet r apldey :b4ule 0:0ching "rSy"tt10 cam:idb44s
+u000
+fnfegr fori ng dvoidneeo fi l(t3er002  mms oidunl e15 mat cmsh)i
+ng "any": 55 candidates
+yuvp debug: YUVP to YUVA converter
+main debug: using video filter2 module "yuvp"
+main debug: Deinterlacing available
+direct3d debug: creating Vout EventThread
+mainddebug:  debunterlDcer0,ctmCoedte inldnow 
+s_needed 0
+main debug: looking for dmitinctd3du  :ebud meniungt vatchiVniutl"ev wer-arwnd,
+a
+ny": 3 candidates
+main debug: madn ieg uo devust:g voutiremoduC r ndttcWindowdrawable"
+ndmdates 
+debug: looking for vout window hwnd module matching "embed-hwnd,any": 3 candidates
+main debug: using vout window hwnd module "drawable"
+direct3d reecutd d debad dngbuout Ev vided vade-winubowwi
+ndow
+ddiredct dd bubu:  gVouDt rEventThreadWrudonin
+g
+diainec3dbdug: ulookidiblboninvocre wi n verhw
+r
+ module matching "embed-hwnd,any": 3 candidatesd
+irect3d dmaig:d3d deb g:usinreice:  ntvndcw) hwn GeaodRileH400G0aphible"30
+08 902 358 9
+direct3d debug: created video sub-window
+direct3d debug: Vout EventThread running
+direct3d debug: disabling screen saver
+direct3d debug: Direct3d Device: Intel(R) HD Graphics 4000 32902 358 9
+main debug: VoutDisplaymEin debug: ize' 1936x1118Event 're
+size' 1296x758 window
+diirecctd 3arninrg: g: tryiing sufface ppxel formama: YV1V1
+2
+direct3d debug: silrceect3d debug: xeseforcted s YVface
+ pixel format is YV12
+main debug: VdutDisplayEvbnt 'reUszegg:19U6ix1_ D3DTindforINEAR for mion
+fication
+direct3dd debug : Using D3D3dirEXcN_LRIfoAR fg: magntifonurfn
+ce pixel doiratd:3dedebu
+g: ebDirecd3D eec33d cenbute: atec sctefcelus
+full 
+pixedifrematd ir ect3d
+dDirect3Direvice adapter succdsrreulty isfubua: iiniti
+alizedEX
+F_LINEAR for minifn dation ebuusing doit outsplas mugu moUsdingct3dD"
+t3d"
+INEAR for magnification
+dimeint3ebdeb  goriigiaal forcatt z  92tex1720, sof ll,0
+),  vszd92recx70, 44bu  I420,i sar 3:1 d vsske axa g00r0 uc0xs
+sfully initialized
+mainn debug:  reremoiinga mndduebuge ausfreen t ydpipeblay
+" o
+VoutDiisplat3evt
+m t a'asiiine'n  5'b0eg:35u0g :w 2i0lkaong wekwioororo
+ttnat rrnrnmaetr rszloeuma m080n,i"ng nya,y ), cvasndiidt20e
+x10
+80, 4cc I420, sar 1:1, msk r0x0 g0x0 b0x0
+mfemtiiypee dbueebug: u g: VoutDisplayEvent 'resize' 500x280 window
+reing Argiamoduslffo"t  frtom "i
+le :\Windndows\Font\srial.ttftf
+main emroamainarelbedy rprser  ode bug
+ fureetyg eodetug: rensereit m dele mat hi2p 
+ny": 2 candidates
+using fontnasfi zeb:g:2rt
+: ype debug: Fusing ntgeda ma etnnoe beseeerot:  ia aFles iu ntd  f tnto" fom fieidtC srWpilnddowyr
+Fontodulria"fle.ttptf
+
+avccfdrc edypeug:bug: ussing difeect neetrseri
+r
+eo:r :2 
+Failed to rmesize adispliayn
+ debug: using text renderer module "freetype"
+main debug: creating audio output
+main debug: looking for audio output module matching "any": 6 acvcaonddeicd adteebusg
+: using direct rendering
+directsound debug: found 2 devices
+main debug: using audio output module "directsound"
+directsound debug: Opening DirectSound Audio Output
+main debug: End of video preroll
+main debug: Received first picture
+main debug: End of video preroll
+main debug: Received first picture
+directsound debug: Windows speaker config: Stereo and stream has 6 channels, using 2 channels
+main debug: End of video preroll
+main debug: Received first picture
+main debug: Detected interlaced video
+main debug: deinterlace 0, mode blend, is_needed 1
+main debug: output 'f32l' 48000 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'a52 ' 48000 Hz 3F2R/LFE frame=1536 samples/1792 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 48000 rate, 6 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+scaletempo debug: 1.000 scale, 1440.000 stride_in, 1440 stride_out, 1152 standing, 288 overlap, 672 search, 2400 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'a52 '->'f32l' 48000 Hz->48000 Hz 3F2R/LFE->3F2R/LFE
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: no audio converter modules matched
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "a52tofloat32"
+main debug: conversion pipeline complete
+main debug: conversion: 'f32l'->'f32l' 48000 Hz->48000 Hz 3F2R/LFE->Stereo
+main debug: looking for audio converter module matching "any": 12 candidates
+main debug: using audio converter module "simple_channel_mixer"
+main debug: conversion pipeline complete
+main debug: looking for audio resampler module matching "any": 3 candidates
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+main debug: Decoder buffering done in 235 ms
+scaletempo debug: 2.000 scale, 2880.000 stride_in, 1440 stride_out
+main debug: inserting 6910 zeroes
+main debug: Decoder buffering done in 263 ms
+main debug: Decoder buffering done in 307 ms
+avcodec warning: Physical channel configuration not set : guessing
+main debug: creating audio output
+main debug: looking for audio output module matching "any": 6 candidates
+directsound debug: found 2 devices
+main debug: using audio output module "directsound"
+directsound debug: Opening DirectSound Audio Output
+directsound debug: Windows speaker config: Stereo and stream has 2 channels, using 2 channels
+main debug: output 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio volume module matching "any": 2 candidates
+main debug: using audio volume module "float_mixer"
+main debug: input 'f32l' 44100 Hz Stereo frame=1 samples/8 bytes
+main debug: looking for audio filter module matching "scaletempo": 14 candidates
+scaletempo debug: format: 44100 rate, 2 nch, 4 bps, fl32
+scaletempo debug: params: 30 stride, 0.200 overlap, 14 search
+scaletempo debug: 1.000 scale, 1323.000 stride_in, 1323 stride_out, 1059 standing, 264 overlap, 617 search, 2204 queue, fl32 mode
+main debug: using audio filter module "scaletempo"
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: conversion: 'f32l'->'f32l' 44100 Hz->44100 Hz Stereo->Stereo
+main debug: conversion pipeline complete
+main debug: looking for audio resampler module matching "any": 3 candidates
+main debug: using audio resampler module "samplerate"
+main debug: End of audio preroll
+scaletempo debug: ma2in00 scale,  2p46ayback too late (60574): upe-samp
+ling
+main debug: inserting 2861 zeroes
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 27 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 60 ms)
+main warning: picture is too late to be displayed (missing 43 ms)
+main warning: picture is too late to be displayed (missing 27 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main debug: picture might be displayed late (missing 0 ms)
+main warning: picture is too late to be displayed (missing 45 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 13 ms)
+main debbgu g: utoauidingidious m cure ocu
+rsor
+main warning: picture is too late to be displayed (missing 45 ms)
+main mariing: rping: repicture is too  be displayed (missid (28 ms)
+g 45 ms)
+main debugmainpwicntur: migict rb is topoa elate eto ibsingisp2 ayed
+ (missing 29 ms)
+main debug: picture might be displayed late (missing 12 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main debug: auto hiding mouse cursor
+main warning: picture is too late to be displayed (missing 47 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 45 ms)
+main warning: picture is too late to be displayed (missing 28 ms)
+main debug: picture might be displayed late (missing 13 ms)
+main warning: picture is too late to be displayed (missing 47 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed late (missing 1 ms)
+main warning: picture is too late to be displayed (missing 46 ms)
+main warning: picture is too late to be displayed (missing 30 ms)
+main debug: picture might be displayed late (missing 14 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 48 ms)
+main warning: picture is too late to be displayed (missing 31 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 2 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 17 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 16 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 34 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main warning: picture is too late to be displayed (missing 49 ms)
+main warning: picture is too late to be displayed (missing 32 ms)
+main debug: picture might be displayed late (missing 17 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main debug: picture might be displayed late (missing 19 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 50 ms)
+main warning: picture is too late to be displayed (missing 33 ms)
+main debug: picture might be displayed late (missing 18 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 51 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main debug: picture might be displayed late (missing 19 ms)
+main debug: picture might be displayed late (missing 5 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 36 ms)
+main warning: picture is too late to be displayed (missing 20 ms)
+main debug: picture might be displayed late (missing 3 ms)
+main warning: picture is too late to be displayed (missing 51 ms)
+main warning: picture is too late to be displayed (missing 34 ms)
+main debug: picture might be displayed late (missing 19 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 35 ms)
+main warning: picture is too late to be displayed (missing 20 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 36 ms)
+main debug: picture might be displayed late (missing 20 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 52 ms)
+main warning: picture is too late to be displayed (missing 36 ms)
+main warning: picture is too late to be displayed (missing 20 ms)
+main debug: picture might be displayed late (missing 4 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 55 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 23 ms)
+main debug: picture might be displayed late (missing 6 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main debug: resampling stopped (drift: 4324 us)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 39 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 56 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 24 ms)
+main debug: picture might be displayed late (missing 7 ms)
+asf warning: cannot peek while getting new packet, EOF ?
+main debug: EOF reached
+main debug: waiting decoder fifos to empty
+main debug: waiting decoder fifos to empty
+main debug: waiting decoder fifos to empty
+main debug: waiting decoder fifos to empty
+direct3d debug: WinProc WM_DESTROY
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: removing module "avcodec"
+avcodec debug: ffmpeg codec (Windows Media Audio 2) stopped
+main debug: killing decoder fourcc `WMA2', 0 PES in FIFO
+main debug: removing module "samplerate"
+main debug: removing module "scaletempo"
+directsound debug: closing audio device
+main debug: VoutDisplayEvent 'resize' 224459276x2244592m8a8i nwindow 
+debug: removing module "float_mixer"
+main debug: keeping audio output
+main debug: VoutDisplayEvent 'resimzaei'n  0dxe1b2u8g0:  wirnedmoowv
+ing module "avcodec"
+avcodec debug: ffmpeg codec (Windows Media Video VC1) stopped
+main debug: killing decoder fourcc `VC-1', 0 PES in FIFO
+main debug: saving a free vout
+main debug: reusing provided vout
+main debug: mVaionut DispldaeybEvuengt ':res ize' rem301o1ving 4m486od4uxle "a3s02116f54"4
+ window
+main debug: Program doesn't contain anymore ES
+main debug: removing module "record"
+main debug: removing module "filesystem"
+main error: Failed to resize display
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 11 ms)
+main warning: picture is too late to be displayed (missing 57 ms)
+main warning: picture is too late to be displayed (missing 40 ms)
+main warning: picture is too late to be displayed (missing 25 ms)
+main debug: picture might be displayed late (missing 8 ms)
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 59 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 42 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 10 ms)
+main warning: picture is too late to be displayed (missing 58 ms)
+main warning: picture is too late to be displayed (missing 41 ms)
+main warning: picture is too late to be displayed (missing 26 ms)
+main debug: picture might be displayed late (missing 9 ms)
+main debug: picture might be displayed late (missing 15 ms)
+main debug: picture might be displayed daie ecti3dindeg g16 Wi)roc WM_DESTROY
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+direct3d debug: WinProc WM_DESTROY
+direct3d debug: DirectXEventThread terminating
+direct3d debug: DirectXCloseWindow
+direct3d debug: WinProc WM_DESTROY
+main debug: picture might be displayed late (missing 17 ms)
+maim debug: ebug: ovipicture might besdisplayed matain dssbug: 7ems)
+ing
+main debug: no exit handler
+main debug: removing module "logger"
+main debug: VoutDisplayEvent 'resize' 1354549209x246412980 window
+main warning: picture is too late to be displayed (missing 35 ms)
+mminiwarning:: pVoutDisplayEvent 'resize disp920 windowsi
+ng 20 ms)
+main debug: picture might be displayed late (missing 4 ms)
+-- logger module stopped --
+main debug: VoutDisplayEvent 'resize' 1354549209x232585040 window
+main debug: VoutDisplayEvent 'resize' 1354549209x246412980 window
+main debug: VoutDisplayEvmai nresize' 0xV920 windowEvent 'resize' 0x1920 window

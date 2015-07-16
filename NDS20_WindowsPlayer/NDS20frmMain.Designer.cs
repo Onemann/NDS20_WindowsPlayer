@@ -40,7 +40,7 @@
             this.picbMainLogo.BackColor = System.Drawing.Color.White;
             this.picbMainLogo.Image = global::NDS20_WindowsPlayer.Properties.Resources.cj_png_powercast_hr_eng;
             this.picbMainLogo.InitialImage = null;
-            this.picbMainLogo.Location = new System.Drawing.Point(306, 200);
+            this.picbMainLogo.Location = new System.Drawing.Point(249, 59);
             this.picbMainLogo.Name = "picbMainLogo";
             this.picbMainLogo.Size = new System.Drawing.Size(300, 100);
             this.picbMainLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
